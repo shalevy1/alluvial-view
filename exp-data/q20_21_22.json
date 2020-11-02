@@ -1,0 +1,759 @@
+[{
+    "_id" : "3L77dQsqKm6fA6b8p",
+    "name" : "GANNET A",
+    "type" : "platform",
+    "company" : "J64BpfwEBuiFSgGht",
+    "location" : [
+        1.00338023156537,
+        57.176431942505
+    ],
+    "companyName" : "SHELL"
+},
+{
+    "_id" : "4RCe4MkwqK7Hqgxxz",
+    "name" : "CAYLEY",
+    "type" : "platform",
+    "company" : "KnWCz5cW936z7iWmg",
+    "location" : [
+        1.23008053570417,
+        57.4194504351018
+    ],
+    "companyName" : "REPSOL"
+},
+{
+    "_id" : "4yLLR8QosxBbpFAi6",
+    "name" : "TEAL SOUTH",
+    "type" : "platform",
+    "company" : "d6dcFSXNoWaGPdtyX",
+    "location" : [
+        0.816731137628442,
+        57.2301644657887
+    ],
+    "companyName" : "ANASURIA"
+},
+{
+    "_id" : "5BPxcpzxCj3cKGYpA",
+    "name" : "SAXON",
+    "type" : "platform",
+    "company" : "9frFYZLpjH8GZAmd4",
+    "location" : [
+        0.47789030540938,
+        57.2578041102152
+    ],
+    "companyName" : "DANA"
+},
+{
+    "_id" : "5xoBb5bbNbrF7htZs",
+    "name" : "GUILLEMOT NORTH",
+    "type" : "platform",
+    "company" : "9frFYZLpjH8GZAmd4",
+    "location" : [
+        0.730911287370351,
+        57.1992622794906
+    ],
+    "companyName" : "DANA"
+},
+{
+    "_id" : "73dn4wuxBtitQTaSn",
+    "name" : "GODWIN",
+    "type" : "platform",
+    "company" : "KnWCz5cW936z7iWmg",
+    "location" : [
+        1.29695218393608,
+        57.398384534029
+    ],
+    "companyName" : "REPSOL"
+},
+{
+    "_id" : "75u4khSgrXuoh5Sij",
+    "name" : "ENOCHDHU",
+    "type" : "platform",
+    "company" : "hjqAjuTx6pb92Np8x",
+    "location" : [
+        0.873987803626203,
+        57.9691985606152
+    ],
+    "companyName" : "CONOCOPHILLIPS"
+},
+{
+    "_id" : "8GyYDyJapiGF2Wo9d",
+    "name" : "MONAN",
+    "type" : "platform",
+    "company" : "XtmvRmrnnTJXRJQfS",
+    "location" : [
+        1.89548414345716,
+        57.366430944633
+    ],
+    "companyName" : "BP"
+},
+{
+    "_id" : "9msbMscv7jLZy8ztX",
+    "name" : "GADWALL",
+    "type" : "platform",
+    "company" : "dnDPdPTXsEyZGHuBD",
+    "location" : [
+        0.715250887618544,
+        57.4283481901268
+    ],
+    "companyName" : "ENQUEST"
+},
+{
+    "_id" : "AmkKwXc6FCZvQfxsL",
+    "name" : "MONTROSE",
+    "type" : "platform",
+    "company" : "KnWCz5cW936z7iWmg",
+    "location" : [
+        1.40512250054514,
+        57.4555659394401
+    ],
+    "companyName" : "REPSOL"
+},
+{
+    "_id" : "BBWmHwnwXio7B6imf",
+    "name" : "BRIMMOND",
+    "type" : "platform",
+    "company" : "SYsxdqsSEa73Cq7Dh",
+    "location" : [
+        1.03050130675045,
+        57.7154654568402
+    ],
+    "companyName" : "APACHE"
+},
+{
+    "_id" : "CDvy5aTugTDpARsvk",
+    "name" : "GANNET D",
+    "type" : "platform",
+    "company" : "J64BpfwEBuiFSgGht",
+    "location" : [
+        1.08937354317368,
+        57.3128098613731
+    ],
+    "companyName" : "SHELL"
+},
+{
+    "_id" : "CtiibRg7qWh3rxj5S",
+    "name" : "DAUNTLESS",
+    "type" : "platform",
+    "company" : "PprS5eKMtS74fJy3a",
+    "location" : [
+        0.096442026279438,
+        57.5202824918608
+    ],
+    "companyName" : "CENTRICA"
+},
+{
+    "_id" : "DcdAJvmvbboN3TW3h",
+    "name" : "GUILLEMOT A",
+    "type" : "platform",
+    "company" : "d6dcFSXNoWaGPdtyX",
+    "location" : [
+        0.818673780659138,
+        57.1702143731902
+    ],
+    "companyName" : "ANASURIA"
+},
+{
+    "_id" : "DsgDNJ7cNdtHkypTM",
+    "name" : "MARNOCK-SKUA (oil)",
+    "type" : "platform",
+    "company" : "XtmvRmrnnTJXRJQfS",
+    "location" : [
+        1.63875214524935,
+        57.2337310031109
+    ],
+    "companyName" : "BP"
+},
+{
+    "_id" : "FLYEXLDqghWaH6iJW",
+    "name" : "ETTRICK",
+    "type" : "platform",
+    "company" : "P4Kd5DeS6psQ66Mh5",
+    "location" : [
+        -0.627918605629676,
+        57.8999555704732
+    ],
+    "companyName" : "NEXEN"
+},
+{
+    "_id" : "FQ4zBzvBSL6gLsP9Z",
+    "name" : "CHESTNUT",
+    "type" : "platform",
+    "company" : "PprS5eKMtS74fJy3a",
+    "location" : [
+        1.22945182260172,
+        57.9534405440608
+    ],
+    "companyName" : "CENTRICA"
+},
+{
+    "_id" : "FzSejThvzPnAvyXoH",
+    "name" : "MALLARD",
+    "type" : "platform",
+    "company" : "dnDPdPTXsEyZGHuBD",
+    "location" : [
+        0.774724879524318,
+        57.4177235736274
+    ],
+    "companyName" : "ENQUEST"
+},
+{
+    "_id" : "GYYaTMbgpxjv4MCGp",
+    "name" : "HUNTINGTON",
+    "type" : "platform",
+    "company" : "z6wTfGWb26LFa7hzM",
+    "location" : [
+        1.62698087756479,
+        57.6022579827667
+    ],
+    "companyName" : "PREMIER"
+},
+{
+    "_id" : "GbTEdWi7v73xKWiw2",
+    "name" : "GOLDEN EAGLE",
+    "type" : "platform",
+    "company" : "P4Kd5DeS6psQ66Mh5",
+    "location" : [
+        -0.916112396290159,
+        57.9754794745034
+    ],
+    "companyName" : "NEXEN"
+},
+{
+    "_id" : "GzN6wERAnY7fsrP38",
+    "name" : "GANNET G",
+    "type" : "platform",
+    "company" : "J64BpfwEBuiFSgGht",
+    "location" : [
+        1.00810318618403,
+        57.226655777747
+    ],
+    "companyName" : "SHELL"
+},
+{
+    "_id" : "Hsoi8Bm5nYjtYPAg7",
+    "name" : "ARBROATH",
+    "type" : "platform",
+    "company" : "KnWCz5cW936z7iWmg",
+    "location" : [
+        1.40635085767741,
+        57.3790662322784
+    ],
+    "companyName" : "REPSOL"
+},
+{
+    "_id" : "JFx7hMJNv8iYYXZmw",
+    "name" : "ARKWRIGHT",
+    "type" : "platform",
+    "company" : "KnWCz5cW936z7iWmg",
+    "location" : [
+        1.50331370719507,
+        57.3018837149259
+    ],
+    "companyName" : "REPSOL"
+},
+{
+    "_id" : "JQWBTT5hWwnkowf7k",
+    "name" : "GANNET F",
+    "type" : "platform",
+    "company" : "J64BpfwEBuiFSgGht",
+    "location" : [
+        0.969975287996004,
+        57.0853893061189
+    ],
+    "companyName" : "SHELL"
+},
+{
+    "_id" : "KAoWzekgPJKA2SCCL",
+    "name" : "HANNAY",
+    "type" : "platform",
+    "company" : "KnWCz5cW936z7iWmg",
+    "location" : [
+        -0.100873425010586,
+        57.9914497442134
+    ],
+    "companyName" : "REPSOL"
+},
+{
+    "_id" : "KJphXGm7PjHyqAWd8",
+    "name" : "MAULE",
+    "type" : "platform",
+    "company" : "SYsxdqsSEa73Cq7Dh",
+    "location" : [
+        0.971297060523922,
+        57.7313262680166
+    ],
+    "companyName" : "APACHE"
+},
+{
+    "_id" : "KT43rHfTSzWzYteik",
+    "name" : "TWEEDSMUIR SOUTH",
+    "type" : "platform",
+    "company" : "KnWCz5cW936z7iWmg",
+    "location" : [
+        0.177299813704722,
+        57.9459467307811
+    ],
+    "companyName" : "REPSOL"
+},
+{
+    "_id" : "Kv4eePA5BXiG9Qsvi",
+    "name" : "ELGIN",
+    "type" : "platform",
+    "company" : "63bHi9wSJzGKgChwa",
+    "location" : [
+        1.83848174262423,
+        57.0115426477051
+    ],
+    "companyName" : "TOTAL"
+},
+{
+    "_id" : "NkaDqxPLqZyvRm5HH",
+    "name" : "FLEMING",
+    "type" : "platform",
+    "company" : "LDf8XwZxmAyFp7hDw",
+    "location" : [
+        1.85103376763108,
+        57.9192302035412
+    ],
+    "companyName" : "BG"
+},
+{
+    "_id" : "NtX8SFZwvZnTEkd8K",
+    "name" : "NELSON",
+    "type" : "platform",
+    "company" : "AmpoW7PngLenaK2kZ",
+    "location" : [
+        1.12874311749681,
+        57.6647368951546
+    ],
+    "companyName" : "ENTERPRISE"
+},
+{
+    "_id" : "Q3sT4rok7ZRaHEvLv",
+    "name" : "CARNOUSTIE",
+    "type" : "platform",
+    "company" : "KnWCz5cW936z7iWmg",
+    "location" : [
+        1.38158042113035,
+        57.3743237502836
+    ],
+    "companyName" : "REPSOL"
+},
+{
+    "_id" : "Q94yFcdiYs35vLMLD",
+    "name" : "TEAL",
+    "type" : "platform",
+    "company" : "d6dcFSXNoWaGPdtyX",
+    "location" : [
+        0.822451529315051,
+        57.2935837820753
+    ],
+    "companyName" : "ANASURIA"
+},
+{
+    "_id" : "QA8BTNoBanD73xmAE",
+    "name" : "SCOLTY",
+    "type" : "platform",
+    "company" : "dnDPdPTXsEyZGHuBD",
+    "location" : [
+        0.409836205347136,
+        57.6724809553553
+    ],
+    "companyName" : "ENQUEST"
+},
+{
+    "_id" : "QCHEuidhzFXNGicFT",
+    "name" : "SCOTER (oil)",
+    "type" : "platform",
+    "company" : "J64BpfwEBuiFSgGht",
+    "location" : [
+        1.97193222678341,
+        57.1297034941326
+    ],
+    "companyName" : "SHELL"
+},
+{
+    "_id" : "QdwdTNqRR64zo5ca7",
+    "name" : "SHELLEY",
+    "type" : "platform",
+    "company" : "z6wTfGWb26LFa7hzM",
+    "location" : [
+        1.37660179514198,
+        57.8844149338079
+    ],
+    "companyName" : "PREMIER"
+},
+{
+    "_id" : "QhwAWBPGZZg94KwKw",
+    "name" : "KITTIWAKE",
+    "type" : "platform",
+    "company" : "dnDPdPTXsEyZGHuBD",
+    "location" : [
+        0.515407884545467,
+        57.4711421475418
+    ],
+    "companyName" : "ENQUEST"
+},
+{
+    "_id" : "SLnWLK4qhyN6uJFiG",
+    "name" : "EVEREST",
+    "type" : "platform",
+    "company" : "LDf8XwZxmAyFp7hDw",
+    "location" : [
+        1.8110698718975,
+        57.8030885138535
+    ],
+    "companyName" : "BG"
+},
+{
+    "_id" : "TshFbQqvC9swsmerd",
+    "name" : "GANNET C",
+    "type" : "platform",
+    "company" : "J64BpfwEBuiFSgGht",
+    "location" : [
+        0.956683270754103,
+        57.1477743373234
+    ],
+    "companyName" : "SHELL"
+},
+{
+    "_id" : "Wq82RYHbd7hsGDhFF",
+    "name" : "BUZZARD",
+    "type" : "platform",
+    "company" : "P4Kd5DeS6psQ66Mh5",
+    "location" : [
+        -0.979902017872789,
+        57.8039575143461
+    ],
+    "companyName" : "NEXEN"
+},
+{
+    "_id" : "YpKWKRrzCz47Sw7if",
+    "name" : "MERGANSER",
+    "type" : "platform",
+    "company" : "J64BpfwEBuiFSgGht",
+    "location" : [
+        1.91927540124549,
+        57.140470217076
+    ],
+    "companyName" : "SHELL"
+},
+{
+    "_id" : "Z98YonizsyGKkhDhv",
+    "name" : "BRODGAR",
+    "type" : "platform",
+    "company" : "hjqAjuTx6pb92Np8x",
+    "location" : [
+        0.463247211754165,
+        57.9236016314684
+    ],
+    "companyName" : "CONOCOPHILLIPS"
+},
+{
+    "_id" : "Zh7q9iSdiBXqCBvWj",
+    "name" : "CRATHES",
+    "type" : "platform",
+    "company" : "dnDPdPTXsEyZGHuBD",
+    "location" : [
+        0.399835941962977,
+        57.5833306496355
+    ],
+    "companyName" : "ENQUEST"
+},
+{
+    "_id" : "ZzW7hCgHC6xaknMHJ",
+    "name" : "MARNOCK-SKUA (cond)",
+    "type" : "platform",
+    "company" : "XtmvRmrnnTJXRJQfS",
+    "location" : [
+        1.69737916900061,
+        57.2920638109767
+    ],
+    "companyName" : "BP"
+},
+{
+    "_id" : "caSJaWgcx4YPNG5FK",
+    "name" : "BARDOLINO",
+    "type" : "platform",
+    "company" : "AmpoW7PngLenaK2kZ",
+    "location" : [
+        1.41534731147316,
+        57.6257061428266
+    ],
+    "companyName" : "ENTERPRISE"
+},
+{
+    "_id" : "djrowkGFoAB36oXvF",
+    "name" : "HAWKINS",
+    "type" : "platform",
+    "company" : "LDf8XwZxmAyFp7hDw",
+    "location" : [
+        1.82366896077466,
+        57.9881013449093
+    ],
+    "companyName" : "BG"
+},
+{
+    "_id" : "dkH43MMXu9AcjZrLE",
+    "name" : "BRECHIN",
+    "type" : "platform",
+    "company" : "KnWCz5cW936z7iWmg",
+    "location" : [
+        1.56730720696242,
+        57.3056086542916
+    ],
+    "companyName" : "REPSOL"
+},
+{
+    "_id" : "e8Rcfu7STtNJdG4rH",
+    "name" : "GUILLEMOT WEST",
+    "type" : "platform",
+    "company" : "9frFYZLpjH8GZAmd4",
+    "location" : [
+        0.798893567601894,
+        57.1866157000647
+    ],
+    "companyName" : "DANA"
+},
+{
+    "_id" : "eDxB5j8j5gxtPF2BL",
+    "name" : "FORTIES",
+    "type" : "platform",
+    "company" : "SYsxdqsSEa73Cq7Dh",
+    "location" : [
+        0.973155167636121,
+        57.7300092446233
+    ],
+    "companyName" : "APACHE"
+},
+{
+    "_id" : "exwdJ4nXu8Qym5XzT",
+    "name" : "MIRREN",
+    "type" : "platform",
+    "company" : "XtmvRmrnnTJXRJQfS",
+    "location" : [
+        1.87085809100801,
+        57.3060304862586
+    ],
+    "companyName" : "BP"
+},
+{
+    "_id" : "hX8mcHqqECsDYMqJk",
+    "name" : "COOK",
+    "type" : "platform",
+    "company" : "8oQWY2DrGDPPBhBPm",
+    "location" : [
+        0.813413929492469,
+        57.3707754019697
+    ],
+    "companyName" : "ITHACA"
+},
+{
+    "_id" : "iFbqiN4LJ5YC7dfcn",
+    "name" : "HOWE",
+    "type" : "platform",
+    "company" : "AmpoW7PngLenaK2kZ",
+    "location" : [
+        1.35335015911527,
+        57.6378167894104
+    ],
+    "companyName" : "ENTERPRISE"
+},
+{
+    "_id" : "jexRbzNsHK8g3by9o",
+    "name" : "PICT",
+    "type" : "platform",
+    "company" : "9frFYZLpjH8GZAmd4",
+    "location" : [
+        0.488826408137224,
+        57.2846992007458
+    ],
+    "companyName" : "DANA"
+},
+{
+    "_id" : "k3aKSLBMzzMu4Jvrb",
+    "name" : "WOOD",
+    "type" : "platform",
+    "company" : "KnWCz5cW936z7iWmg",
+    "location" : [
+        1.45184130638455,
+        57.3728675870491
+    ],
+    "companyName" : "REPSOL"
+},
+{
+    "_id" : "kALcw8mj96FDiEn3f",
+    "name" : "HERON",
+    "type" : "platform",
+    "company" : "J64BpfwEBuiFSgGht",
+    "location" : [
+        1.80834422840471,
+        57.1473130703458
+    ],
+    "companyName" : "SHELL"
+},
+{
+    "_id" : "kk3AeKWdKsZgWngJH",
+    "name" : "GUILLEMOT NORTH WEST",
+    "type" : "platform",
+    "company" : "9frFYZLpjH8GZAmd4",
+    "location" : [
+        0.705202511640552,
+        57.2020510497808
+    ],
+    "companyName" : "DANA"
+},
+{
+    "_id" : "oJFhcRFPm6ZuzKxhZ",
+    "name" : "DURWARD",
+    "type" : "platform",
+    "company" : "PprS5eKMtS74fJy3a",
+    "location" : [
+        0.143887496306798,
+        57.4694733025763
+    ],
+    "companyName" : "CENTRICA"
+},
+{
+    "_id" : "oWLPyA2NnYyPRucvf",
+    "name" : "SCOTER (gas)",
+    "type" : "platform",
+    "company" : "J64BpfwEBuiFSgGht",
+    "location" : [
+        1.97193222678341,
+        57.1297034941326
+    ],
+    "companyName" : "SHELL"
+},
+{
+    "_id" : "ojWdSYWr7p8JmT7CX",
+    "name" : "GANNET E",
+    "type" : "platform",
+    "company" : "J64BpfwEBuiFSgGht",
+    "location" : [
+        0.845179747839389,
+        57.1634684727219
+    ],
+    "companyName" : "SHELL"
+},
+{
+    "_id" : "pgKQe7tQ3pbhKGpuE",
+    "name" : "SHAW",
+    "type" : "platform",
+    "company" : "KnWCz5cW936z7iWmg",
+    "location" : [
+        1.36284328605314,
+        57.2968827629311
+    ],
+    "companyName" : "REPSOL"
+},
+{
+    "_id" : "qqDeXMxYeimkNDEAM",
+    "name" : "DRAKE",
+    "type" : "platform",
+    "company" : "LDf8XwZxmAyFp7hDw",
+    "location" : [
+        1.85103376763108,
+        57.9192302035412
+    ],
+    "companyName" : "BG"
+},
+{
+    "_id" : "rRA7tEpKgPsB7js7t",
+    "name" : "CLAPHAM",
+    "type" : "platform",
+    "company" : "9frFYZLpjH8GZAmd4",
+    "location" : [
+        0.613501507514977,
+        57.2404932354548
+    ],
+    "companyName" : "DANA"
+},
+{
+    "_id" : "rT492kDpbKjAkqqwS",
+    "name" : "EGRET",
+    "type" : "platform",
+    "company" : "J64BpfwEBuiFSgGht",
+    "location" : [
+        1.74998068802427,
+        57.1714521933243
+    ],
+    "companyName" : "SHELL"
+},
+{
+    "_id" : "vDSm3QJiGSfn8ZY9Y",
+    "name" : "GOOSANDER",
+    "type" : "platform",
+    "company" : "dnDPdPTXsEyZGHuBD",
+    "location" : [
+        0.315836238742568,
+        57.5061178218522
+    ],
+    "companyName" : "ENQUEST"
+},
+{
+    "_id" : "veNyT6GyttmsbfiFC",
+    "name" : "GANNET B",
+    "type" : "platform",
+    "company" : "J64BpfwEBuiFSgGht",
+    "location" : [
+        0.956683270754103,
+        57.1477743373234
+    ],
+    "companyName" : "SHELL"
+},
+{
+    "_id" : "w7ZLZHDLWGb7HfyAJ",
+    "name" : "MADOES",
+    "type" : "platform",
+    "company" : "XtmvRmrnnTJXRJQfS",
+    "location" : [
+        1.48153382142571,
+        57.1695087482805
+    ],
+    "companyName" : "BP"
+},
+{
+    "_id" : "xqW8CZGRr4T3R8fth",
+    "name" : "BUCHAN",
+    "type" : "platform",
+    "company" : "KnWCz5cW936z7iWmg",
+    "location" : [
+        -0.000541623514119,
+        57.8995947583872
+    ],
+    "companyName" : "REPSOL"
+},
+{
+    "_id" : "yAkPsZYsrjJMMLbbj",
+    "name" : "GROUSE",
+    "type" : "platform",
+    "company" : "dnDPdPTXsEyZGHuBD",
+    "location" : [
+        0.619954227915755,
+        57.4786487559548
+    ],
+    "companyName" : "ENQUEST"
+},
+{
+    "_id" : "yLPsRft6qeZH82v3G",
+    "name" : "TWEEDSMUIR",
+    "type" : "platform",
+    "company" : "KnWCz5cW936z7iWmg",
+    "location" : [
+        0.160480681544938,
+        57.9829118392149
+    ],
+    "companyName" : "REPSOL"
+},
+{
+    "_id" : "zGJrNajG8Qt9hBygX",
+    "name" : "SEYMOUR",
+    "type" : "platform",
+    "company" : "LDf8XwZxmAyFp7hDw",
+    "location" : [
+        1.88653232689179,
+        57.9725885788034
+    ],
+    "companyName" : "BG"
+}]

@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Svg Alluvials</title>
+  <link rel="stylesheet" href="css/svgstyle3.css" />
+
+
+</head>
+
+<body>
+
+  <section>
+    <!-- <select id="drop">
+            <option value="">Select one...</option>
+            <option value="svgs/new_data_oct17th">newdatatest</option>
+            <option value="svgs/company_dock_platform">company_dock_platform</option>
+            <option value="svgs/company_dock_vessel_platform">company_dock_vessel_platform</option>
+            <option value="svgs/company_item_port_platform">company_item_port_platform</option>
+            <option value="svgs/Item_Vessel_Platform">Item_Vessel_Platform</option>
+            <option value="svgs/item-load-unload">item-load-unload</option>
+            <option value="svgs/company-dock-vessel-platform-tagged">company-dock-vessel-platform-tagged</option>
+            <option value="svgs/testsizesort">company-dock-vessel-platform-tagged-size</option>
+            <option value="svgs/testautosort">company-dock-vessel-platform-tagged-auto</option>
+            <option value="svgs/newdata-colection-to-platfrom-company">collection-to-platform (company)</option>
+            <option value="svgs/newdata-colection-to-platfrom">collection-to-platform </option>
+            <option value="svgs/company-collection-delivery-vessel-platform">company-collection-delivery-vessel-platform</option>
+            <option value="svgs/newdata">newdatatest</option>
+        </select> -->
+         <!--<button id="btn" type="button">Show/Hide tracks</button>-->
+  </section>
+  <section id="graph">
+  </section>
+  <script src="js/jquery.js"></script>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="js/svg-pan-zoom.js"></script>
+
+  <script>
+    var main_chart_svg = d3.select("section#graph")
+      .append("svg")
+      .attr("width", "100%")
+      .attr("height", "100%")
+
+
+    loadSvg2("svgs/data3");
+
+    function loadSvg2(graph) {
+      $("#graph").empty();
+      d3.xml(graph + ".svg", function(error, documentFragment) {
+        if (error) {
+          console.log(error);
+          return;
+        }
+
+        var svgNode = documentFragment.getElementsByTagName("svg")[0];
+
+        d3.select("section#graph").node().appendChild(svgNode)
+
+
+
+
+        //var innerSVG = d3.select("section#graph").select("svg")
+        //.call(d3.zoom()
+        //.scaleExtent([1, 2])
+        //.on("zoom", zoom));
+
+        //function zoom() {
+          //innerSVG.attr("transform", d3.event.transform);
+        //}
+        nodeClick();
+        //applyColours();
+
+
+        responsivefy(d3.select("section#graph").select("svg"));
+
+        panZoomInstance = svgPanZoom("SVG", {
+           zoomEnabled: true,
+           controlIconsEnabled: true,
+           fit: true,
+           center: true,
+           minZoom: 0.5,
+           refreshRate: 2
+         });
+         var currentheight  = window.innerHeight;
+        // zoom out
+         panZoomInstance.zoom(0.7)
+        //  panZoomInstance.panBy({
+        //   x:0,
+        //   y: - Math.max(1024,currentheight/2)
+        // });
+
+        // $("#move").on("click", function() {
+        //   // Pan by any values from -80 to 80
+        //   panZoomInstance.panBy({
+        //     x: Math.round(Math.random() * 160 - 80),
+        //     y: Math.round(Math.random() * 160 - 80)
+        //   })
+        // });
+
+      });
+    }
+
+
+    function responsivefy(svg) {
+      // get container + svg aspect ratio
+      var container = d3.select(svg.node().parentNode),
+        width = parseInt(svg.style("width")),
+        height = parseInt(svg.style("height")),
+        aspect = width / height;
+
+      //console.log(window.innerHeight);
+
+      // add viewBox and preserveAspectRatio properties,
+      // and call resize so that svg resizes on inital page load
+      svg.attr("viewBox", "0 0 " + width + " " + height)
+        .attr("preserveAspectRatio", "xMinYMid")
+        .call(resize);
+
+      // to register multiple listeners for same event type,
+      // you need to add namespace, i.e., 'click.foo'
+      // necessary if you call invoke this function for multiple svgs
+      // api docs: https://github.com/mbostock/d3/wiki/Selections#on
+      d3.select(window).on("resize." + container.attr("id"), resize);
+
+      // get width of container and resize svg to fit it
+      function resize() {
+        var targetWidth = parseInt(window.innerWidth);
+        svg.attr("width", targetWidth - 50);
+        svg.attr("height", targetWidth * aspect);
+      }
+    }
+
+
+
+    var nodeClick = function() {
+
+
+      $("g.node").mouseover(function() {
+        //console.log($(this));
+
+        var parenttag =  $(this).find("text")[0].innerHTML
+        parenttag = parenttag.hashCode()
+        parenttag = "."+parenttag
+
+
+        rmAllSelect();
+        //$(".Team").addClass("selectedLink");
+        addSelect(parenttag);
+
+
+        console.log(parenttag);
+      });
+
+    };
+
+    String.prototype.hashCode = function() {
+      var hash = 0, i, chr;
+      if (this.length === 0) return hash;
+      for (i = 0; i < this.length; i++) {
+        chr   = this.charCodeAt(i);
+        hash  = ((hash << 5) - hash) + chr;
+        hash |= 0; // Convert to 32bit integer
+      }
+      return hash;
+    };
+
+    $("#drop").change(function() {
+      var end = this.value;
+      loadSvg2(end);
+      console.log(end);
+    });
+
+    function addSelect(selector) {
+      // var currentclasses = $(selector).attr("class").split(' ');
+      // console.log(currentclasses);
+      // if (currentclasses.indexOf("selectedLink") == -1) {
+      //   currentclasses.push("selectedLink");
+      //   var newclasses = currentclasses.join(" ");
+      //   //console.log(newclasses);
+      //   $(selector).attr("class", newclasses);
+      // }
+      //console.log(currentclasses);
+
+      $(selector).each(function(index, value){
+        //console.log(value);
+        var currentclasses = $(value).attr("class").split(' ');
+        currentclasses.push("selectedLink");
+        var newclasses = currentclasses.join(" ");
+        //   //console.log(newclasses);
+        $(value).attr("class", newclasses);
+      });
+
+    }
+
+    function ckSelect(selector) {
+      var currentclasses = $(selector).attr("class").split(' ');
+      //console.log(currentclasses);
+      if (currentclasses.indexOf("selectedLink") == -1) {
+        return false;
+      }
+      else{
+        return true;
+      }
+      //console.log(currentclasses);
+    }
+
+    function rmSelect(selector) {
+      var currentclasses = $(selector).attr("class").split(' ');
+      //console.log(currentclasses);
+      if (currentclasses.indexOf("selectedLink") == -1) {
+
+      } else {
+        var idx = currentclasses.indexOf("selectedLink");
+        currentclasses.splice(idx, 1);
+        var newclasses = currentclasses.join(" ");
+        //console.log(newclasses);
+        $(selector).attr("class", newclasses);
+
+      }
+      //console.log(currentclasses);
+    }
+
+    function rmAllSelect() {
+
+      $('.link').each(function(index, value){
+        //console.log(value);
+        var currentclasses = $(value).attr("class").split(' ');
+        if (currentclasses.indexOf("selectedLink") == -1) {
+
+        } else {
+          var idx = currentclasses.indexOf("selectedLink");
+          currentclasses.splice(idx, 1);
+          var newclasses = currentclasses.join(" ");
+          //console.log(newclasses);
+          $(value).attr("class", newclasses);
+
+        }
+      });
+
+      //console.log(currentclasses);
+    }
+
+
+
+    //loadSvg("#graph", "testautosort", nodeClick)
+    // function loadSvg(selector, url, callback) {
+    //   var target = document.querySelector(selector);
+    //
+    //   // If SVG is supported
+    //   if (typeof SVGRect != "undefined") {
+    //     // Request the SVG file
+    //     var ajax = new XMLHttpRequest();
+    //     ajax.open("GET", url + ".svg", true);
+    //     ajax.send();
+    //
+    //     // Append the SVG to the target
+    //     ajax.onload = function(e) {
+    //       target.innerHTML = ajax.responseText;
+    //       callback();
+    //     }
+    //   } else {
+    //     // Fallback to png
+    //     target.innerHTML = "<img src='" + url + ".png' />";
+    //   }
+    //
+    // }
+    // load the external svg from a file
+  </script>
+
+</body>
+
+</html>

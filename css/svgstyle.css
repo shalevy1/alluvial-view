@@ -1,0 +1,157 @@
+/**
+ * @Author: John Isaacs <john>
+ * @Date:   27-Sep-172017
+ * @Filename: svgstyle.css
+ * @Last modified by:   john
+ * @Last modified time: 08-Feb-182018
+ */
+
+
+
+body{
+
+}
+SVG {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#info{
+
+  /*background-color: #c2c2c2;*/
+  width : 300px;
+  height: 100px;
+  display:block;
+  z-index: 1;
+  margin:40px;
+  position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#nav li {
+    display: inline;
+    text-decoration: none;
+}
+#infoline li {
+    display: inline;
+    text-decoration: none;
+}
+
+#infoPanel {
+
+}
+#graphRight{
+  float: right;
+  margin-top: 100px;
+border: 1px dashed black;
+  width:49% !important;
+  height:80% !important;
+  overflow: hidden;
+
+}
+
+#graphLeft{
+  float:left;
+  margin-top: 100px;
+border: 1px dashed black;
+  width:49% !important;
+  height:80% !important;
+  overflow: hidden;
+
+}
+#graph{
+  position: relative;
+    left: 0;
+    top: 0;
+
+  width:100% !important;
+  height:100% !important;
+  overflow: hidden;
+
+}
+rect {
+  cursor: pointer;
+}
+
+  .node {
+    cursor: pointer;
+
+  }
+
+
+  .node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 3px;
+  }
+
+  .node text {
+    font: 10px sans-serif;
+    pointer-events: visiblePainted !important;
+  }
+
+/*all links*/
+  path.link {
+    visibility:hidden !important;
+    stroke-opacity:0.1 !important;
+
+    stroke-dasharray: 10 !important;
+
+  }
+
+
+  /*single platform visits */
+  path.count1 {
+
+    stroke-dasharray: 0 !important;
+
+  }
+
+  /*Multi platform added css*/
+  path.showLinkMultiPlat {
+    stroke-opacity:0.5 !important;
+    visibility:visible !important;
+
+
+  }]
+  /*Single platform added css*/
+  path.showLinkSinglePlat {
+    stroke-opacity:0.5 !important;
+    visibility:visible !important;
+
+
+  }
+
+/*1 company*/
+  path.multi0 {
+    stroke-opacity:0.2 !important;
+  }
+  /*multi company added css*/
+    path.showLinkMultiOper {
+
+      stroke-opacity:0.5 !important;
+      visibility:visible !important;
+
+    }
+    path.showLinkSingleOper {
+
+      stroke-opacity:0.5 !important;
+      visibility:visible !important;
+
+    }
+
+    /*number of companies*/
+      path.showLink {
+
+        stroke-opacity:0.5 !important;
+        visibility:visible !important;
+
+      }
+
+
+  path.selectedLink {
+    stroke-opacity:1 !important;
+    visibility:visible !important;
+  }

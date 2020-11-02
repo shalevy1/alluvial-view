@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Svg Alluvials</title>
+  <link rel="stylesheet" href="css/svgstyle.css" />
+
+
+</head>
+
+<body>
+
+  <section>
+    <!-- <select id="drop">
+            <option value="">Select one...</option>
+            <option value="svgs/new_data_oct17th">newdatatest</option>
+            <option value="svgs/company_dock_platform">company_dock_platform</option>
+            <option value="svgs/company_dock_vessel_platform">company_dock_vessel_platform</option>
+            <option value="svgs/company_item_port_platform">company_item_port_platform</option>
+            <option value="svgs/Item_Vessel_Platform">Item_Vessel_Platform</option>
+            <option value="svgs/item-load-unload">item-load-unload</option>
+            <option value="svgs/company-dock-vessel-platform-tagged">company-dock-vessel-platform-tagged</option>
+            <option value="svgs/testsizesort">company-dock-vessel-platform-tagged-size</option>
+            <option value="svgs/testautosort">company-dock-vessel-platform-tagged-auto</option>
+            <option value="svgs/newdata-colection-to-platfrom-company">collection-to-platform (company)</option>
+            <option value="svgs/newdata-colection-to-platfrom">collection-to-platform </option>
+            <option value="svgs/company-collection-delivery-vessel-platform">company-collection-delivery-vessel-platform</option>
+            <option value="svgs/newdata">newdatatest</option>
+        </select> -->
+         <!--<button id="btn" type="button">Show/Hide tracks</button>-->
+         <button id="btnTrack" type="button">Show all tracks</button>
+         <button id="btnPlat" type="button">Show  multi-platfrom journeys</button>
+         <button id="btnOper" type="button">Show  multi-operator journeys</button>
+         <button id="btnPlatS" type="button">Show single-platfrom journeys</button>
+         <button id="btnOperS" type="button">Show single-operator journeys</button>
+  </section>
+  <section id="graph">
+  </section>
+  <section id="info">
+    <h2 id="nodetype"></h2>
+    <h2 id="nodename"></h2>
+  </section>
+  <script src="js/jquery.js"></script>
+  <script src="js/d3.min.js"></script>
+  <script src="js/raw.js"></script>
+  <script src="js/sankey.js"></script>
+  <script src="js/colours.js"></script>
+  <script src="js/alluvial.js"></script>
+  <script src="js/svg-pan-zoom.js"></script>
+
+
+  <script>
+
+    $(function() {
+      console.log( "ready!" );
+      var tracksOn = false;
+      var platsOn = false;
+      var opersOn = false;
+
+      var main_chart_svg = d3.select("section#graph")
+        .append("svg")
+        .attr("width", "100%")
+        .attr("height", "100%")
+
+        $.getJSON("exp-data/testjson.json", function(json) {
+            console.log(json); // this will show the info it in firebug console
+            //var cscales = generateColourScales(json);
+            drawgraph(main_chart_svg,json);
+
+            responsivefy(d3.select("section#graph").select("svg"));
+
+            panZoomInstance = svgPanZoom("SVG", {
+              zoomEnabled: true,
+              controlIconsEnabled: true,
+              fit: true,
+              center: false,
+              minZoom: 0.5,
+              refreshRate: 1
+            });
+            var currentheight = window.innerHeight;
+
+            panZoomInstance.zoom(1);
+
+
+            setNodeActions();
+        });
+
+
+        $('#btnTrack').mousedown(function(event) {
+          if (tracksOn) {
+            tracksOn = false;
+            //rmAllSelect()
+            rmHighlightAllSelect();
+            $('#btnTrack').css("background-color","white");
+            $('#btnTrack').css("color","black");
+          } else {
+            tracksOn = true;
+            //rmAllSelect()
+            highlightAllSelect();
+            $('#btnTrack').css("background-color","blue");
+            $('#btnTrack').css("color","white");
+          }
+          //console.log("tracks " + tracksOn);
+        });
+        $('#btnPlat').click(function(event) {
+          if (platsOn) {
+            platsOn = false;
+            //rmAllSelect()
+            rmHighlightConditionalInverseAllSelect("count1", "showLinkMultiPlat")
+            $('#btnPlat').css("background-color","white");
+            $('#btnPlat').css("color","black");
+          } else {
+            platsOn = true;
+            //rmAllSelect()
+            highlightConditionalInverseAllSelect("count1", "showLinkMultiPlat")
+            $('#btnPlat').css("background-color","blue");
+            $('#btnPlat').css("color","white");
+          }
+        //  console.log("multi-platform " + platsOn);
+        });
+        $('#btnOper').click(function(event) {
+          if (opersOn) {
+            opersOn = false;
+            //rmAllSelect()
+            rmHighlightConditionalAllSelect("multi1", "showLinkMultiOper")
+            $('#btnOper').css("background-color","white");
+            $('#btnOper').css("color","black");
+          } else {
+            opersOn = true;
+            //rmAllSelect()
+            highlightConditionalAllSelect("multi1", "showLinkMultiOper")
+            $('#btnOper').css("background-color","blue");
+            $('#btnOper').css("color","white");
+          }
+          //console.log("multi-operators " + opersOn);
+        });
+        $('#btnPlatS').click(function(event) {
+          if (platssOn) {
+            platssOn = false;
+            //rmAllSelect()
+            rmHighlightConditionalAllSelect("count1", "showLinkSinglePlat")
+            $('#btnPlatS').css("background-color","white");
+            $('#btnPlatS').css("color","black");
+          } else {
+            platssOn = true;
+            //rmAllSelect()
+            highlightConditionalAllSelect("count1", "showLinkSinglePlat")
+            $('#btnPlatS').css("background-color","blue");
+            $('#btnPlatS').css("color","white");
+          }
+        //  console.log("multi-platform " + platsOn);
+        });
+        $('#btnOperS').click(function(event) {
+          if (operssOn) {
+            operssOn = false;
+            //rmAllSelect()
+            rmHighlightConditionalAllSelect("multi0", "showLinkMultiOper")
+            $('#btnOperS').css("background-color","white");
+            $('#btnOperS').css("color","black");
+          } else {
+            operssOn = true;
+            //rmAllSelect()
+            highlightConditionalAllSelect("multi0", "showLinkMultiOper")
+            $('#btnOperS').css("background-color","blue");
+            $('#btnOperS').css("color","white");
+          }
+          //console.log("multi-operators " + opersOn);
+        });
+
+      //loadSvg2("svgs/id-size");
+
+      function loadSvg2(graph) {
+        $("#graph").empty();
+        d3.xml(graph + ".svg", function(error, documentFragment) {
+          if (error) {
+            console.log(error);
+            return;
+          }
+
+          var svgNode = documentFragment.getElementsByTagName("svg")[0];
+
+          d3.select("section#graph").node().appendChild(svgNode)
+
+
+
+          responsivefy(d3.select("section#graph").select("svg"));
+
+          panZoomInstance = svgPanZoom("SVG", {
+            zoomEnabled: true,
+            controlIconsEnabled: true,
+            fit: true,
+            center: false,
+            minZoom: 0.5,
+            refreshRate: 1
+          });
+          var currentheight = window.innerHeight;
+
+          panZoomInstance.zoom(1);
+
+
+          setNodeActions();
+
+        });
+      }
+
+
+      function responsivefy(svg) {
+        // get container + svg aspect ratio
+        var container = d3.select(svg.node().parentNode),
+          width = parseInt(svg.style("width")),
+          height = parseInt(svg.style("height")),
+          aspect = width / height;
+
+        //console.log(window.innerHeight);
+
+        // add viewBox and preserveAspectRatio properties,
+        // and call resize so that svg resizes on inital page load
+        svg.attr("viewBox", "0 0 " + width + " " + height)
+          .attr("preserveAspectRatio", "xMinYMid")
+          .call(resize);
+
+        // to register multiple listeners for same event type,
+        // you need to add namespace, i.e., 'click.foo'
+        // necessary if you call invoke this function for multiple svgs
+        // api docs: https://github.com/mbostock/d3/wiki/Selections#on
+        d3.select(window).on("resize." + container.attr("id"), resize);
+
+        // get width of container and resize svg to fit it
+        function resize() {
+          var targetWidth = parseInt(window.innerWidth);
+          svg.attr("width", targetWidth - 50);
+          svg.attr("height", targetWidth * aspect);
+        }
+      }
+
+
+
+      var setNodeActions = function() {
+
+
+
+  $("g.node").mouseout(function(n) {
+  rmAllSelect();
+  $('#nodetype').text('')
+  $('#nodename').text('');
+
+  });
+        $("g.node").mouseover(function(n) {
+          //console.log($(this));
+
+
+          var innertext = $(this).find("text")[0].innerHTML
+          var group = $(this).attr('group');
+          if (group == 'companyName') {
+            $('#nodetype').text('Operator')
+            $('#nodename').text(innertext);
+          } else if (group == 'vesselName') {
+            $('#nodetype').text('Vessel')
+            $('#nodename').text(innertext);
+          } else {
+            $('#nodetype').text('Platform')
+            $('#nodename').text(innertext);
+          }
+          //console.log("innner text " + innertext);
+
+          parenttag = innertext;
+          parenttag = parenttag.hashCode()
+          parenttag = "." + parenttag
+
+
+
+          //$(".Team").addClass("selectedLink");
+          addSelect(parenttag);
+
+
+          //console.log(parenttag);
+
+        });
+
+      };
+
+      //var addClick = function() {
+
+      //addAll();
+
+      //};
+
+      String.prototype.hashCode = function() {
+        var hash = 0,
+          i, chr;
+        if (this.length === 0) return hash;
+        for (i = 0; i < this.length; i++) {
+          chr = this.charCodeAt(i);
+          hash = ((hash << 5) - hash) + chr;
+          hash |= 0; // Convert to 32bit integer
+        }
+        return hash;
+      };
+
+      $("#drop").change(function() {
+        var end = this.value;
+        loadSvg2(end);
+        //console.log(end);
+      });
+
+      function addSelect(selector) {
+        $(selector).each(function(index, value) {
+          //console.log(value);
+          var currentclasses = $(value).attr("class").split(' ');
+          currentclasses.push("selectedLink");
+          var newclasses = currentclasses.join(" ");
+          //   //console.log(newclasses);
+          $(value).attr("class", newclasses);
+        });
+
+      }
+
+      function ckSelect(selector) {
+        var currentclasses = $(selector).attr("class").split(' ');
+        //console.log(currentclasses);
+        if (currentclasses.indexOf("selectedLink") == -1) {
+          return false;
+        } else {
+          return true;
+        }
+        //console.log(currentclasses);
+      }
+
+      function rmSelect(selector) {
+        var currentclasses = $(selector).attr("class").split(' ');
+        //console.log(currentclasses);
+        if (currentclasses.indexOf("selectedLink") == -1) {
+
+        } else {
+          var idx = currentclasses.indexOf("selectedLink");
+          currentclasses.splice(idx, 1);
+          var newclasses = currentclasses.join(" ");
+          //console.log(newclasses);
+          $(selector).attr("class", newclasses);
+
+        }
+        //console.log(currentclasses);
+      }
+
+      function rmAllSelect() {
+
+        $('.link').each(function(index, value) {
+          //console.log(value);
+          var currentclasses = $(value).attr("class").split(' ');
+          if (currentclasses.indexOf("selectedLink") == -1) {
+
+          } else {
+            var idx = currentclasses.indexOf("selectedLink");
+            currentclasses.splice(idx, 1);
+            var newclasses = currentclasses.join(" ");
+            //console.log(newclasses);
+            $(value).attr("class", newclasses);
+
+          }
+        });
+
+        //console.log(currentclasses);
+      }
+
+      function highlightAllSelect() {
+
+        $('.link').each(function(index, value) {
+          //console.log(value);
+          var currentclasses = $(value).attr("class").split(' ');
+          if (currentclasses.indexOf("showLink") == -1) {
+            currentclasses.push("showLink");
+            var newclasses = currentclasses.join(" ");
+            $(value).attr("class", newclasses);
+
+          } else {
+
+
+          }
+        });
+
+        //console.log(currentclasses);
+      }
+
+      function rmHighlightAllSelect() {
+
+        $('.link').each(function(index, value) {
+          //console.log(value);
+          var currentclasses = $(value).attr("class").split(' ');
+          if (currentclasses.indexOf("showLink") == -1) {
+
+          } else {
+            var idx = currentclasses.indexOf("showLink");
+            currentclasses.splice(idx, 1);
+            var newclasses = currentclasses.join(" ");
+            //console.log(newclasses);
+            $(value).attr("class", newclasses);
+
+          }
+        });
+
+        //console.log(currentclasses);
+      }
+
+      function highlightConditionalAllSelect(condition, newselector) {
+
+        $('.link').each(function(index, value) {
+          //console.log(value);
+          var currentclasses = $(value).attr("class").split(' ');
+          if (currentclasses.indexOf(condition) == -1) {
+
+          } else {
+            currentclasses.push(newselector);
+            var newclasses = currentclasses.join(" ");
+            $(value).attr("class", newclasses);
+
+          }
+        });
+
+        //console.log(currentclasses);
+      }
+
+      function rmHighlightConditionalAllSelect(condition, newselector) {
+
+        $('.link').each(function(index, value) {
+          //console.log(value);
+          var currentclasses = $(value).attr("class").split(' ');
+          if (currentclasses.indexOf(condition) == -1) {
+
+          } else {
+            if (currentclasses.indexOf(newselector)) {
+              var idx = currentclasses.indexOf(newselector);
+              currentclasses.splice(idx, 1);
+              var newclasses = currentclasses.join(" ");
+              //console.log(newclasses);
+              $(value).attr("class", newclasses);
+            }
+
+          }
+        });
+      }
+
+      function highlightConditionalInverseAllSelect(condition, newselector) {
+
+        $('.link').each(function(index, value) {
+          //console.log(value);
+          var currentclasses = $(value).attr("class").split(' ');
+          if (currentclasses.indexOf(condition) == -1) {
+            currentclasses.push(newselector);
+            var newclasses = currentclasses.join(" ");
+            $(value).attr("class", newclasses);
+          } else {
+
+
+          }
+        });
+
+        //console.log(currentclasses);
+      }
+
+      function rmHighlightConditionalInverseAllSelect(condition, newselector) {
+
+        $('.link').each(function(index, value) {
+          //console.log(value);
+          var currentclasses = $(value).attr("class").split(' ');
+          if (currentclasses.indexOf(condition) == -1) {
+            if (currentclasses.indexOf(newselector)) {
+              var idx = currentclasses.indexOf(newselector);
+              currentclasses.splice(idx, 1);
+              var newclasses = currentclasses.join(" ");
+              //console.log(newclasses);
+              $(value).attr("class", newclasses);
+            }
+
+          } else {
+
+
+          }
+        });
+
+        //console.log(currentclasses);
+      }
+
+      });
+
+    //function generateColourScales(json){
+
+
+  </script>
+
+</body>
+
+</html>

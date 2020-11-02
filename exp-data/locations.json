@@ -1,0 +1,431 @@
+{"_id":"2AqLEr4znwDSkch55","name":"GORDON","type":"platform","company":"2NpgbxJ2kGgAFwvyz","location":[1.947978118282955,54.49464097657489],"companyName":"STERLING"}
+{"_id":"2J4B4m8Zxtzp5KxoE","name":"GALIA","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[2.687183097792136,56.18831833392077],"companyName":"ENQUEST"}
+{"_id":"2LcLWoa49MfZdE3Fd","name":"BOULTON","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.074763665637622,54.22748871431537],"companyName":"CONOCOPHILLIPS"}
+{"_id":"2cXknXFGvQQuyKCj3","name":"MARKHAM","type":"platform","company":"PprS5eKMtS74fJy3a","location":[2.855689093938194,53.86632523922142],"companyName":"CENTRICA"}
+{"_id":"2jEcg8GJ3u8YFvWdx","name":"MAGNUS SOUTH","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.260083936790859,61.539491510690965],"companyName":"BP"}
+{"_id":"2wGfHS5KCBDMdWnS2","name":"CAUSEWAY","type":"platform","company":"8oQWY2DrGDPPBhBPm","location":[1.434408483860942,61.27015633991117],"companyName":"ITHACA"}
+{"_id":"32SdwTs3qqiYedruY","name":"HAMILTON NORTH","type":"platform","company":"oa6HWPio3xqq4WD8H","location":[-3.474058941210733,53.648156478542695],"companyName":"BHP"}
+{"_id":"33g2zsAhyBJj3kY23","name":"CAMELOT NORTH","type":"platform","company":"ESQq4bQgYDyQrHPGW","location":[2.131921953259203,52.95726047862702],"companyName":"ENERGY"}
+{"_id":"3449c9K9LknA9mhDK","name":"CAISTER BUNTER","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.452889561062358,54.20722059340102],"companyName":"CONOCOPHILLIPS"}
+{"_id":"35HrCJefMuvToCJ8q","name":"PICKERILL","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.07429672354181,53.539349301787915],"companyName":"PERENCO"}
+{"_id":"38EjKdkxs6WNNnQuN","name":"NUGGETS N4","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.806670488650464,60.23734354155056],"companyName":"TOTAL"}
+{"_id":"3ApCbgs7gZYAtLieB","name":"BRENT","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.689519598845409,61.09790301509029],"companyName":"SHELL"}
+{"_id":"3CgEbjP4Dc8RaBc23","name":"SOLITAIRE","type":"platform","company":"P4Kd5DeS6psQ66Mh5","location":[-0.875729819445287,58.006275109020315],"companyName":"NEXEN"}
+{"_id":"3L77dQsqKm6fA6b8p","name":"GANNET A","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.003380231565369,57.176431942504976],"companyName":"SHELL"}
+{"_id":"3NM4rt7tsn54vNTXQ","name":"HALLEY","type":"platform","company":"KnWCz5cW936z7iWmg","location":[2.2842711270028,56.5294922611297],"companyName":"REPSOL"}
+{"_id":"3Pf4TTnPWRJ2Dr4Er","name":"CHISWICK","type":"platform","company":"PprS5eKMtS74fJy3a","location":[2.728655884909377,53.92857576184723],"companyName":"CENTRICA"}
+{"_id":"3WK7yvWDhQrMSgLxc","name":"DAWN","type":"platform","company":"3XsFB3wDAKPzQKB8T","location":[1.692598996970459,53.129318694364315],"companyName":"ENI"}
+{"_id":"3gakQc9tRHEz5Za5G","name":"BRAE","type":"platform","company":"zi7ongxRdnPtw9HYn","location":[1.349377065614764,58.79243161726769],"companyName":"MARATHON"}
+{"_id":"3trfuBGdcXHC8giqF","name":"MURCHISON","type":"platform","company":"zpjfWw3k9iS5wRkAN","location":[1.734123448425884,61.389657917445824],"companyName":"CNR"}
+{"_id":"44bFTHvs8sHJpk42X","name":"CARRACK","type":"platform","company":"J64BpfwEBuiFSgGht","location":[2.790952193162202,53.57886114618072],"companyName":"SHELL"}
+{"_id":"47WG7EPGn7gbkwzG3","name":"FLORA","type":"platform","company":"A3zWKpgQTZthbyF8t","location":[3.116779502533106,56.077341712622996],"companyName":"HESS"}
+{"_id":"47cYGdgR6LyvhJ4Cb","name":"MERCURY","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[0.630455142349999,53.77675249828321],"companyName":"BP"}
+{"_id":"47p2xYn7udA7na2PT","name":"HOTON","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.212282665194917,53.80899864754892],"companyName":"PERENCO"}
+{"_id":"4KzQPAGBbTEDNMLEX","name":"BARQUE SOUTH","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.525165821670671,53.612412106706415],"companyName":"SHELL"}
+{"_id":"4RCe4MkwqK7Hqgxxz","name":"CAYLEY","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.230080535704174,57.41945043510178],"companyName":"REPSOL"}
+{"_id":"4bLz8jkT8qjpjuWcT","name":"NORTH ALWYN","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.701122987798141,60.80722195678672],"companyName":"TOTAL"}
+{"_id":"4iThhforyi2Cwg7JA","name":"ISLAY","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.944781476082974,60.55781955529398],"companyName":"TOTAL"}
+{"_id":"4jH5jFrriShvLABKf","name":"MURDOCH","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.291994094994906,54.280027055504064],"companyName":"CONOCOPHILLIPS"}
+{"_id":"4yLLR8QosxBbpFAi6","name":"TEAL SOUTH","type":"platform","company":"d6dcFSXNoWaGPdtyX","location":[0.816731137628442,57.23016446578875],"companyName":"ANASURIA"}
+{"_id":"55aiPfo4fySqrF2oE","name":"DUNLIN SOUTH WEST","type":"platform","company":"qYQ5ftcE92cZEasNo","location":[1.555831333244554,61.2292673500397],"companyName":"FAIRFIELD"}
+{"_id":"5BPxcpzxCj3cKGYpA","name":"SAXON","type":"platform","company":"9frFYZLpjH8GZAmd4","location":[0.47789030540938,57.25780411021523],"companyName":"DANA"}
+{"_id":"5H3Hmpst2C6rSBgRC","name":"MACHAR","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[2.091820367343644,57.081817295098375],"companyName":"BP"}
+{"_id":"5PLPLZ6oHZ5dw6y4G","name":"DON","type":"platform","company":"sYjtztrkASvN3XSGX","location":[1.554932397597922,61.47334282264431],"companyName":"BRITOIL"}
+{"_id":"5SgYZS5hLFWyv8eog","name":"ANDREW","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.404710188419298,58.047368168425805],"companyName":"BP"}
+{"_id":"5YGCFYWTcSM5YePv4","name":"BARNACLE","type":"platform","company":"nXcD4vAfvK2aDEa8d","location":[1.793245934475485,61.163837923345476],"companyName":"AURORA"}
+{"_id":"5csTx7a2YKTJ72egX","name":"APOLLO","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[0.579940443573321,53.87702110694425],"companyName":"PERENCO"}
+{"_id":"5xoBb5bbNbrF7htZs","name":"GUILLEMOT NORTH","type":"platform","company":"9frFYZLpjH8GZAmd4","location":[0.730911287370351,57.19926227949057],"companyName":"DANA"}
+{"_id":"69PGBvw98ZdBzEKr7","name":"BRIGANTINE C","type":"platform","company":"J64BpfwEBuiFSgGht","location":[2.716450549254604,53.423843270310456],"companyName":"SHELL"}
+{"_id":"6PRwqx8Mjx6jBqRDc","name":"VAMPIRE","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.041033033260895,53.465046570472],"companyName":"CONOCOPHILLIPS"}
+{"_id":"6bzKWh5na7fHNrSo2","name":"KINNOULL","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.581029028709663,58.241366442814744],"companyName":"BP"}
+{"_id":"6jG8fyzJKJbqWLuKs","name":"STATFJORD","type":"platform","company":"PprS5eKMtS74fJy3a","location":[1.775090611589556,61.177990234442646],"companyName":"CENTRICA"}
+{"_id":"6qNdHcmcWxvbuxdBj","name":"CUTTER","type":"platform","company":"J64BpfwEBuiFSgGht","location":[2.617946345226322,53.718001599464955],"companyName":"SHELL"}
+{"_id":"6rXb6tbeKW5uDb9nK","name":"WREN","type":"platform","company":"xhNpTMys3WBd93s3M","location":[2.593420145414745,52.88612167609043],"companyName":"TULLOW"}
+{"_id":"6yBFnDhCSdr9oXP2h","name":"CONWY","type":"platform","company":"XoYX9S742o9RWmFSE","location":[-3.673896583859357,53.631521351811266],"companyName":"EOG"}
+{"_id":"73dn4wuxBtitQTaSn","name":"GODWIN","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.296952183936079,57.39838453402905],"companyName":"REPSOL"}
+{"_id":"74ZiuSKPkCEyxgDTQ","name":"WATT","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.33986029702429,54.19324677954617],"companyName":"CONOCOPHILLIPS"}
+{"_id":"75u4khSgrXuoh5Sij","name":"ENOCHDHU","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[0.873987803626203,57.969198560615155],"companyName":"CONOCOPHILLIPS"}
+{"_id":"7B4s3wymncivSqHGt","name":"NEPTUNE","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[0.812053498834004,53.97294305800981],"companyName":"PERENCO"}
+{"_id":"7DqmWXFDvmGxvM6JQ","name":"SCHOONER","type":"platform","company":"TNaeBe5TktLEYDCeX","location":[2.039689897770532,54.08226753762562],"companyName":"FAROE"}
+{"_id":"7N6G6o8QQMbSrf7LS","name":"VIKING D","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.269850734967803,53.42754309553992],"companyName":"CONOCOPHILLIPS"}
+{"_id":"7QYHyNYdWjteFCrn8","name":"ROSE","type":"platform","company":"PprS5eKMtS74fJy3a","location":[0.909710405947898,53.669173459179106],"companyName":"CENTRICA"}
+{"_id":"7Sa5fBgrqoz64DHtS","name":"RUBIE","type":"platform","company":"B4P37uFmR2kqNAcjp","location":[0.450965193784806,58.06968972619822],"companyName":"ENDEAVOUR"}
+{"_id":"7j8wx5CTLJ5oPpj9y","name":"BEAULY","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.127751679861259,58.18318954230452],"companyName":"REPSOL"}
+{"_id":"7md7ZLj3bkeNviepn","name":"BERYL","type":"platform","company":"SYsxdqsSEa73Cq7Dh","location":[1.530141993226459,59.54925801612212],"companyName":"APACHE"}
+{"_id":"7mydsZr7kqFP7TEzY","name":"AUK","type":"platform","company":"KnWCz5cW936z7iWmg","location":[2.026575271880407,56.41162596498298],"companyName":"REPSOL"}
+{"_id":"7pBeAnfRcwKaLGRmB","name":"STAFFA","type":"platform","company":"q57JG32sN3z82ST9u","location":[1.578147755147145,60.74669302652843],"companyName":"IONA"}
+{"_id":"8GyYDyJapiGF2Wo9d","name":"MONAN","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.895484143457161,57.36643094463301],"companyName":"BP"}
+{"_id":"8JBLcNBvkSAcsCZPN","name":"CAMELOT CENTRAL SOUTH","type":"platform","company":"ESQq4bQgYDyQrHPGW","location":[2.179675544308364,52.94287158951807],"companyName":"ENERGY"}
+{"_id":"8QBreYLMGQYCRWHWF","name":"FORBES","type":"platform","company":"APwt538JovEa2DX4o","location":[1.50657263535833,54.68203080048517],"companyName":"ENCORE"}
+{"_id":"8TFWgQPiRdmFKwsfH","name":"BLENHEIM","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.006062219862117,58.275310319171],"companyName":"REPSOL"}
+{"_id":"8ZribyGRKJrnLriAZ","name":"HARDING","type":"platform","company":"gh8PoKQY5ADMwhHLL","location":[1.522002755203891,59.28778715677716],"companyName":"TAQA"}
+{"_id":"8cHCoCnxiJPZNuebx","name":"LINNHE","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[1.576630547308149,59.663260887672706],"companyName":"ENQUEST"}
+{"_id":"8qAZd8dS8Jp6KD5kB","name":"SATURN","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[1.831114643436075,53.71294703276873],"companyName":"CONOCOPHILLIPS"}
+{"_id":"8t2H6gkFkuCee8KP9","name":"INDEFATIGABLE","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.522446936154513,53.39244496770101],"companyName":"PERENCO"}
+{"_id":"8vSwwQYAyxXCgchfH","name":"CLADHAN","type":"platform","company":"gh8PoKQY5ADMwhHLL","location":[0.78346556541892,61.14926105840798],"companyName":"TAQA"}
+{"_id":"95rMcTMBWJQGYYW2J","name":"BRITANNIA","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[0.839666769143506,58.081723175092186],"companyName":"CONOCOPHILLIPS"}
+{"_id":"9CzFhRkvgLd45WHKY","name":"FOINAVEN","type":"platform","company":"sYjtztrkASvN3XSGX","location":[-4.342414350486774,60.300345396117706],"companyName":"BRITOIL"}
+{"_id":"9b5bjMTEZKF48EXtg","name":"IVANHOE","type":"platform","company":"A3zWKpgQTZthbyF8t","location":[0.098019877524995,58.1811871625347],"companyName":"HESS"}
+{"_id":"9fy4cnuBNqtwAp6Nt","name":"SHAMROCK","type":"platform","company":"J64BpfwEBuiFSgGht","location":[2.969758569124699,53.45664731127892],"companyName":"SHELL"}
+{"_id":"9msbMscv7jLZy8ztX","name":"GADWALL","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[0.715250887618544,57.4283481901268],"companyName":"ENQUEST"}
+{"_id":"A8j6HSJSMFAAAkGKk","name":"DELILAH","type":"platform","company":"3XsFB3wDAKPzQKB8T","location":[1.889367349848495,53.07663637425321],"companyName":"ENI"}
+{"_id":"ABKpMM52GrnytvskM","name":"JOHNSTON","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[1.232838970950167,54.04292247602353],"companyName":"PREMIER"}
+{"_id":"APSCdTSvgvzeKGpfr","name":"GLENELG","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.784364195451833,56.99125425468744],"companyName":"TOTAL"}
+{"_id":"ARvBiDcmZ8t6HRadT","name":"VIKING E","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.216872524097452,53.485800335217064],"companyName":"CONOCOPHILLIPS"}
+{"_id":"Abibm8FKjc5JQ64Km","name":"BOA","type":"platform","company":"dNM5RMetTQ6sgtYnm","location":[1.849747077217359,59.56485371761946],"companyName":"MAERSK"}
+{"_id":"Af4A654Qm4owotmS4","name":"WINDERMERE","type":"platform","company":"Edr4SaJb3hQ7vimdz","location":[2.75250976956043,53.83138987856481],"companyName":"INEOS"}
+{"_id":"AiQpZRpZA6jhnvdoe","name":"BROWN","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.894765508917723,53.004405960278966],"companyName":"PERENCO"}
+{"_id":"AmkKwXc6FCZvQfxsL","name":"MONTROSE","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.405122500545138,57.45556593944013],"companyName":"REPSOL"}
+{"_id":"AxfMx3RunbXEyh3hP","name":"TARTAN","type":"platform","company":"KnWCz5cW936z7iWmg","location":[0.110958472300019,58.34606329018998],"companyName":"REPSOL"}
+{"_id":"B7BzArEu9ozuMgqBH","name":"FORVIE","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.833668747506047,60.51181635462756],"companyName":"TOTAL"}
+{"_id":"BBWmHwnwXio7B6imf","name":"BRIMMOND","type":"platform","company":"SYsxdqsSEa73Cq7Dh","location":[1.030501306750454,57.71546545684016],"companyName":"APACHE"}
+{"_id":"BGR96rx4JqDLH9K7R","name":"DAVY EAST","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.983141767217046,52.96868385921188],"companyName":"PERENCO"}
+{"_id":"BWree2LYdeCEabFXH","name":"SCOTT","type":"platform","company":"P4Kd5DeS6psQ66Mh5","location":[0.228396388671078,58.26388884687433],"companyName":"NEXEN"}
+{"_id":"BZRQzxtYXdnpZyDSY","name":"BLADON","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.025691960768121,58.31363896262504],"companyName":"REPSOL"}
+{"_id":"BhARejWmqzARCW4Bi","name":"HIGHLANDER","type":"platform","company":"KnWCz5cW936z7iWmg","location":[-0.124747900681448,58.39373593481567],"companyName":"REPSOL"}
+{"_id":"BqJwX8LgcpnH3PPMC","name":"HAWKSLEY","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.375190566211876,54.46594518789186],"companyName":"CONOCOPHILLIPS"}
+{"_id":"BrLn5wyZJQY6fy2Na","name":"CAPTAIN","type":"platform","company":"dBhRSNCjW6bwgWKT8","location":[-1.762757977276441,58.29783875683922],"companyName":"CHEVRON"}
+{"_id":"BzhYKqqWQwxJR7nfM","name":"KINGFISHER","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.536792252476728,58.747639375757494],"companyName":"SHELL"}
+{"_id":"C2ASguRwFzdTwdBvF","name":"YORK","type":"platform","company":"PprS5eKMtS74fJy3a","location":[0.397102154590666,53.87779587974088],"companyName":"CENTRICA"}
+{"_id":"CDvy5aTugTDpARsvk","name":"GANNET D","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.089373543173684,57.3128098613731],"companyName":"SHELL"}
+{"_id":"CKq4yFY6mKNF6R99i","name":"MERLIN","type":"platform","company":"qYQ5ftcE92cZEasNo","location":[1.471531299735967,61.29242969219642],"companyName":"FAIRFIELD"}
+{"_id":"CKuJxn7d6LiJ8Depf","name":"HUNTER","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[2.418912908883515,54.31650178058286],"companyName":"PREMIER"}
+{"_id":"CLfKirYpReLcdd4pP","name":"CONRIE","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[1.531940137049777,61.46614223968844],"companyName":"ENQUEST"}
+{"_id":"CQjvYcbcLMdpSaMiZ","name":"VANGUARD","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.095437188723491,53.379467477205104],"companyName":"CONOCOPHILLIPS"}
+{"_id":"CSY2NaD4tDZHRDg5A","name":"THELMA","type":"platform","company":"zpjfWw3k9iS5wRkAN","location":[1.289080736495125,58.38272585487789],"companyName":"CNR"}
+{"_id":"CpkAfEsyi9DP2mcqD","name":"MARINER","type":"platform","company":"syTiBvNNEhCJmyur2","location":[1.086247939377796,59.58552661737209],"companyName":"STATOIL"}
+{"_id":"CtiibRg7qWh3rxj5S","name":"DAUNTLESS","type":"platform","company":"PprS5eKMtS74fJy3a","location":[0.096442026279438,57.52028249186076],"companyName":"CENTRICA"}
+{"_id":"D3ZyBYkhKX8Net3ry","name":"PLAYFAIR","type":"platform","company":"zpjfWw3k9iS5wRkAN","location":[1.712912767386063,61.44320572395335],"companyName":"CNR"}
+{"_id":"DM7A9Gmj54T98omMx","name":"NORTH WEST HUTTON","type":"platform","company":"gh8PoKQY5ADMwhHLL","location":[1.311358147600996,61.12451008179001],"companyName":"TAQA"}
+{"_id":"DMBMfT9CWcZRvuv3i","name":"KEW","type":"platform","company":"PprS5eKMtS74fJy3a","location":[2.820325278681801,53.92382669514939],"companyName":"CENTRICA"}
+{"_id":"DcdAJvmvbboN3TW3h","name":"GUILLEMOT A","type":"platform","company":"d6dcFSXNoWaGPdtyX","location":[0.818673780659138,57.17021437319023],"companyName":"ANASURIA"}
+{"_id":"DdbN7zAc8hCFdeeLq","name":"WYTCH FARM","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[-1.781451934744159,50.67464442367638],"companyName":"PERENCO"}
+{"_id":"DsgDNJ7cNdtHkypTM","name":"MARNOCK-SKUA (oil)","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.638752145249349,57.23373100311094],"companyName":"BP"}
+{"_id":"Dw2HSjzZwwfZcaHsf","name":"MAGNUS","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.282079170819476,61.6152507561657],"companyName":"BP"}
+{"_id":"EET2gAfoe5kxTzPwd","name":"BITTERN (gas)","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.029164316362845,56.90870584339295],"companyName":"SHELL"}
+{"_id":"EFiYpcopvPstytWdL","name":"WAVENEY","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.302846423711251,53.352351098589196],"companyName":"PERENCO"}
+{"_id":"EgQ3Z8vqmFX8BTFeo","name":"CYGNUS","type":"platform","company":"W7HbwhEtzMux4cRsu","location":[2.271418016276105,54.550481736070935],"companyName":"ENGIE"}
+{"_id":"Eq5ykyLw8BmffRFhi","name":"ALISON","type":"platform","company":"PprS5eKMtS74fJy3a","location":[2.168534613141177,53.508405485332744],"companyName":"CENTRICA"}
+{"_id":"EsmWnMJCFEmzGGGwY","name":"LOYAL","type":"platform","company":"sYjtztrkASvN3XSGX","location":[-4.044792109691302,60.42587429809422],"companyName":"BRITOIL"}
+{"_id":"FLYEXLDqghWaH6iJW","name":"ETTRICK","type":"platform","company":"P4Kd5DeS6psQ66Mh5","location":[-0.627918605629676,57.8999555704732],"companyName":"NEXEN"}
+{"_id":"FNzR2JxmFsGRDM35r","name":"KEITH","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.568410775997665,59.69379492724716],"companyName":"BP"}
+{"_id":"FQ4zBzvBSL6gLsP9Z","name":"CHESTNUT","type":"platform","company":"PprS5eKMtS74fJy3a","location":[1.229451822601724,57.95344054406077],"companyName":"CENTRICA"}
+{"_id":"FQXrwanQQxueq2rFf","name":"GANYMEDE","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.225274801987216,53.33352355321882],"companyName":"CONOCOPHILLIPS"}
+{"_id":"FRDBSzEuTJreyPFhA","name":"EDRADOUR","type":"platform","company":"63bHi9wSJzGKgChwa","location":[-2.2328405483694,60.93407785667256],"companyName":"TOTAL"}
+{"_id":"FRugxK4PdpyvHuy5D","name":"MEDWIN","type":"platform","company":"KnWCz5cW936z7iWmg","location":[2.364303777435785,56.440406139237815],"companyName":"REPSOL"}
+{"_id":"FWp5PKvfjB4QWo4s7","name":"NEWSHAM","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.229722028814884,53.72375411088278],"companyName":"PERENCO"}
+{"_id":"FXSgiQ7uXNCgFtTyJ","name":"EXCALIBUR","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.380512909423811,53.45093018305106],"companyName":"PERENCO"}
+{"_id":"FYWoQDWB49LdinWyk","name":"MILLER","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.41573345411671,58.758838235010735],"companyName":"BP"}
+{"_id":"FzSejThvzPnAvyXoH","name":"MALLARD","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[0.774724879524318,57.41772357362739],"companyName":"ENQUEST"}
+{"_id":"G9Q5N6CpmtciWbQe7","name":"MORDRED","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.350275830437723,53.52065704895469],"companyName":"PERENCO"}
+{"_id":"G9vZ6jpw7yrmRFzWP","name":"DOUGLAS","type":"platform","company":"3XsFB3wDAKPzQKB8T","location":[-3.56716751563008,53.52826251158854],"companyName":"ENI"}
+{"_id":"GBkoMpJpwP3x8rXi9","name":"VICTORIA","type":"platform","company":"fy38MZy2kHdvEcSFb","location":[2.283077917306249,53.46148734260137],"companyName":"VERUS"}
+{"_id":"GYYaTMbgpxjv4MCGp","name":"HUNTINGTON","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[1.626980877564789,57.60225798276666],"companyName":"PREMIER"}
+{"_id":"GbTEdWi7v73xKWiw2","name":"GOLDEN EAGLE","type":"platform","company":"P4Kd5DeS6psQ66Mh5","location":[-0.916112396290159,57.97547947450338],"companyName":"NEXEN"}
+{"_id":"Gjs5gYfbFsdGD8QZw","name":"GAWAIN","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.739598850931947,53.15738500996014],"companyName":"PERENCO"}
+{"_id":"GoobutqnteAF3SBWo","name":"ORLANDO","type":"platform","company":"q57JG32sN3z82ST9u","location":[1.538845774166074,60.962311807366966],"companyName":"IONA"}
+{"_id":"GzN6wERAnY7fsrP38","name":"GANNET G","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.008103186184034,57.226655777747034],"companyName":"SHELL"}
+{"_id":"Gzz942dR9kADrToet","name":"JURA","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.898909891973532,60.54411343615309],"companyName":"TOTAL"}
+{"_id":"HDggtMK2gh4biSANL","name":"THURNE","type":"platform","company":"xhNpTMys3WBd93s3M","location":[2.479067401141208,53.072740245128706],"companyName":"TULLOW"}
+{"_id":"HTnFB2w6McLphBAgF","name":"FIFE","type":"platform","company":"A3zWKpgQTZthbyF8t","location":[3.18359212681104,56.002280922534425],"companyName":"HESS"}
+{"_id":"Ha5hWgWtbnsu6JR5E","name":"RHUM","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.721238336735387,60.11726587782248],"companyName":"BP"}
+{"_id":"He6SfBWXaJiDpvCbr","name":"BLANE","type":"platform","company":"KnWCz5cW936z7iWmg","location":[2.456785763040015,56.89266814240348],"companyName":"REPSOL"}
+{"_id":"HhdaisoS4h4cZ5k2N","name":"ERSKINE","type":"platform","company":"dBhRSNCjW6bwgWKT8","location":[2.05880681044344,57.050812786649296],"companyName":"CHEVRON"}
+{"_id":"HnjPX7GLZsgpd5LW5","name":"BOYLE","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.894765508917723,53.004405960278966],"companyName":"PERENCO"}
+{"_id":"Hsoi8Bm5nYjtYPAg7","name":"ARBROATH","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.406350857677405,57.37906623227842],"companyName":"REPSOL"}
+{"_id":"HsoyRefM6BEfxLp9i","name":"BURGMAN","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[0.659250559397687,56.752462682516764],"companyName":"PREMIER"}
+{"_id":"HtupQ8Kyd5XQcN6bQ","name":"CAVENDISH","type":"platform","company":"Edr4SaJb3hQ7vimdz","location":[1.752696998009572,54.477360035056385],"companyName":"INEOS"}
+{"_id":"J4XZyviQowYzgNb46","name":"BAINS","type":"platform","company":"4FaAtLacXJgeo4LBa","location":[-3.455344955055128,53.87477485976155],"companyName":"HYDROCARBON"}
+{"_id":"JC5ib98yCZe5SdDKn","name":"VIKING A","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.255408077822373,53.52654610456921],"companyName":"CONOCOPHILLIPS"}
+{"_id":"JFx7hMJNv8iYYXZmw","name":"ARKWRIGHT","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.503313707195072,57.301883714925935],"companyName":"REPSOL"}
+{"_id":"JGbyrctPtb9kuGy3B","name":"RENEE","type":"platform","company":"B4P37uFmR2kqNAcjp","location":[0.329896000885878,58.049193420146],"companyName":"ENDEAVOUR"}
+{"_id":"JQWBTT5hWwnkowf7k","name":"GANNET F","type":"platform","company":"J64BpfwEBuiFSgGht","location":[0.969975287996004,57.085389306118856],"companyName":"SHELL"}
+{"_id":"JsHg7fwGSZFXaSBrm","name":"DEVERON","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[1.524733964984911,61.36070204291517],"companyName":"ENQUEST"}
+{"_id":"KAoWzekgPJKA2SCCL","name":"HANNAY","type":"platform","company":"KnWCz5cW936z7iWmg","location":[-0.100873425010586,57.99144974421342],"companyName":"REPSOL"}
+{"_id":"KJphXGm7PjHyqAWd8","name":"MAULE","type":"platform","company":"SYsxdqsSEa73Cq7Dh","location":[0.971297060523922,57.73132626801662],"companyName":"APACHE"}
+{"_id":"KT43rHfTSzWzYteik","name":"TWEEDSMUIR SOUTH","type":"platform","company":"KnWCz5cW936z7iWmg","location":[0.177299813704722,57.94594673078113],"companyName":"REPSOL"}
+{"_id":"KYxcffN8o5DmnGnzZ","name":"DEBORAH","type":"platform","company":"3XsFB3wDAKPzQKB8T","location":[1.859386702100287,53.07492796266458],"companyName":"ENI"}
+{"_id":"KZ5CwEDGS9jx9JJTr","name":"CERES","type":"platform","company":"PprS5eKMtS74fJy3a","location":[0.680639716878319,53.79379666250994],"companyName":"CENTRICA"}
+{"_id":"KZkXQ77vfoyaY89qQ","name":"THAMES","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.530846145626625,53.08765733025155],"companyName":"PERENCO"}
+{"_id":"KbcAYP4BK8Yu9aYBJ","name":"HAMISH","type":"platform","company":"A3zWKpgQTZthbyF8t","location":[0.122965247414248,58.208485472535806],"companyName":"HESS"}
+{"_id":"Kv4eePA5BXiG9Qsvi","name":"ELGIN","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.838481742624226,57.01154264770514],"companyName":"TOTAL"}
+{"_id":"LEyrWPENRcG9WXERY","name":"TRISTAN NORTH WEST","type":"platform","company":"twnBg8YoEpxdXsPS6","location":[2.684409705304005,53.0288632695651],"companyName":"VERSUS"}
+{"_id":"LJGwzZzmu9rXD8Heb","name":"NINIAN","type":"platform","company":"zpjfWw3k9iS5wRkAN","location":[1.458377062067324,60.86083484586592],"companyName":"CNR"}
+{"_id":"LJcHcrzBxtKMYLWab","name":"CORMORANT NORTH","type":"platform","company":"gh8PoKQY5ADMwhHLL","location":[1.160132718765756,61.21402054982137],"companyName":"TAQA"}
+{"_id":"LTsWLr4aZwSmGcX2Q","name":"GUINEVERE","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.272194621954862,53.414014694710865],"companyName":"PERENCO"}
+{"_id":"LXkCPQvTmihY8xfYM","name":"YARE","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.578876734406786,53.04310148016514],"companyName":"PERENCO"}
+{"_id":"Lg8M2MsgRgYJb69fw","name":"DURANGO","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.123189587633514,53.282535705181665],"companyName":"PERENCO"}
+{"_id":"M6vh9ocqXSFSq9596","name":"CAMELOT NORTH EAST","type":"platform","company":"J64BpfwEBuiFSgGht","location":[2.231899016136449,52.96623394660068],"companyName":"SHELL"}
+{"_id":"MLh52K7jd4Tcy5bAJ","name":"NUGGETS N1","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.751685188279752,60.45960129548921],"companyName":"TOTAL"}
+{"_id":"MbxGLjomqfLPNJWAd","name":"MAUREEN","type":"platform","company":"Edr4SaJb3hQ7vimdz","location":[1.721160191469872,58.12215289814864],"companyName":"INEOS"}
+{"_id":"MsTvcJSZycSa7eAka","name":"LOIRSTON","type":"platform","company":"SYsxdqsSEa73Cq7Dh","location":[1.454831701623966,59.57337394508148],"companyName":"APACHE"}
+{"_id":"NBFs248Xrxceez7rC","name":"RAVERNSPURN SOUTH","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[0.926081887068851,54.0379465635493],"companyName":"PERENCO"}
+{"_id":"NGrZzN4APHTDDsG7G","name":"MINERVA","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[0.563742894257146,53.9385228927853],"companyName":"PERENCO"}
+{"_id":"NJv6RsL8ru5F42Pgo","name":"LEMAN","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.128197625061679,53.08720855094251],"companyName":"PERENCO"}
+{"_id":"NZ823EbyBsKXxrHzy","name":"LARCH","type":"platform","company":"PprS5eKMtS74fJy3a","location":[1.257973037471411,58.61485492908138],"companyName":"CENTRICA"}
+{"_id":"NkaDqxPLqZyvRm5HH","name":"FLEMING","type":"platform","company":"LDf8XwZxmAyFp7hDw","location":[1.851033767631077,57.919230203541154],"companyName":"BG"}
+{"_id":"NtX8SFZwvZnTEkd8K","name":"NELSON","type":"platform","company":"AmpoW7PngLenaK2kZ","location":[1.128743117496813,57.66473689515462],"companyName":"ENTERPRISE"}
+{"_id":"NusB2Fbgmh9ercCLQ","name":"HUTTON","type":"platform","company":"zpjfWw3k9iS5wRkAN","location":[1.401835706691105,61.07203724427209],"companyName":"CNR"}
+{"_id":"Nvn5TeJoXdxx2BbpK","name":"FLYNDRE","type":"platform","company":"dNM5RMetTQ6sgtYnm","location":[2.634055955329754,56.55960862183692],"companyName":"MAERSK"}
+{"_id":"PR4nKeHiqT38QEPtx","name":"HORNE","type":"platform","company":"xhNpTMys3WBd93s3M","location":[2.594136236427505,52.914927595727335],"companyName":"TULLOW"}
+{"_id":"PfYo8GBvHSy7DY2Bs","name":"ANGLIA","type":"platform","company":"8oQWY2DrGDPPBhBPm","location":[1.651677094616217,53.36759778650969],"companyName":"ITHACA"}
+{"_id":"Q3sT4rok7ZRaHEvLv","name":"CARNOUSTIE","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.381580421130351,57.3743237502836],"companyName":"REPSOL"}
+{"_id":"Q94yFcdiYs35vLMLD","name":"TEAL","type":"platform","company":"d6dcFSXNoWaGPdtyX","location":[0.822451529315051,57.293583782075316],"companyName":"ANASURIA"}
+{"_id":"QA8BTNoBanD73xmAE","name":"SCOLTY","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[0.409836205347136,57.67248095535532],"companyName":"ENQUEST"}
+{"_id":"QCHEuidhzFXNGicFT","name":"SCOTER (oil)","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.971932226783406,57.12970349413264],"companyName":"SHELL"}
+{"_id":"QEjWuJSwvYBe5Stbg","name":"WELLAND SOUTH","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.735201349274174,52.984409454670434],"companyName":"PERENCO"}
+{"_id":"QYWnjtG257hpMk37F","name":"JADE","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.254048284471761,56.84909909655614],"companyName":"CONOCOPHILLIPS"}
+{"_id":"QdwdTNqRR64zo5ca7","name":"SHELLEY","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[1.376601795141976,57.88441493380791],"companyName":"PREMIER"}
+{"_id":"QhwAWBPGZZg94KwKw","name":"KITTIWAKE","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[0.515407884545467,57.471142147541755],"companyName":"ENQUEST"}
+{"_id":"QnoMHjw2EADkdHTh3","name":"TERN","type":"platform","company":"gh8PoKQY5ADMwhHLL","location":[0.904663721136061,61.27761962988315],"companyName":"TAQA"}
+{"_id":"QoqFwSm7idHX2sLQo","name":"WHITTLE","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[0.54495830517224,54.11144426147244],"companyName":"PERENCO"}
+{"_id":"QymgwpNAW6TSvsMrM","name":"LYBSTER","type":"platform","company":"rdRsw5XnKziER4RY7","location":[-3.271707357793096,58.263013052329065],"companyName":"IGAS"}
+{"_id":"RBCP7wyhLBb5KNNwD","name":"HEATHER","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[0.95352432740483,60.95591486005341],"companyName":"ENQUEST"}
+{"_id":"RMPg3964yEoNjHw84","name":"LITTLE DOTTY","type":"platform","company":"3XsFB3wDAKPzQKB8T","location":[1.876116514998396,53.03167079225662],"companyName":"ENI"}
+{"_id":"RMjuJ5HC8oQ6yL56d","name":"CROMARTY","type":"platform","company":"A3zWKpgQTZthbyF8t","location":[-1.078587636215456,58.06379448547132],"companyName":"HESS"}
+{"_id":"RMsSLSitpCbPxsDyu","name":"SOUTH MORECAMBE","type":"platform","company":"4FaAtLacXJgeo4LBa","location":[-3.635764244534179,53.859355014986804],"companyName":"HYDROCARBON"}
+{"_id":"RYiimSsxZYFfZLeH5","name":"SCHIEHALLION","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[-4.040528690045074,60.3512185696184],"companyName":"BP"}
+{"_id":"RakhcosY6fjpp4Gzy","name":"KILMAR","type":"platform","company":"9FDXdrXjGK8eHznR2","location":[1.334734644794384,54.28985577736699],"companyName":"ALPHA"}
+{"_id":"RbzjbhSbpn5xmdEiS","name":"MACLURE","type":"platform","company":"dNM5RMetTQ6sgtYnm","location":[1.616404097639143,59.35375182838004],"companyName":"MAERSK"}
+{"_id":"RygffEGJkNT9vCy7M","name":"CAWDOR","type":"platform","company":"dNM5RMetTQ6sgtYnm","location":[2.606556537588835,56.527421157788154],"companyName":"MAERSK"}
+{"_id":"S6FdPo5cNsYbBD65o","name":"BEACON","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[-1.781451934744159,50.67464442367638],"companyName":"PERENCO"}
+{"_id":"SAR4sv8SQuTnADsff","name":"VIKING B","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.321043521909231,53.440569122490764],"companyName":"CONOCOPHILLIPS"}
+{"_id":"SDZYqK5o4gjTb3cM3","name":"VICTOR","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.361123175089788,53.32930503195296],"companyName":"CONOCOPHILLIPS"}
+{"_id":"SG3tXXMR4gsG9v5To","name":"CALDER","type":"platform","company":"LefP6bi9Tqm7Q8CqQ","location":[-3.663679896690827,53.80735301001537],"companyName":"BURLINGTON"}
+{"_id":"SJsYB6ebc96HDDko5","name":"RAVENSPURN","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[0.926081887068851,54.0379465635493],"companyName":"PERENCO"}
+{"_id":"SLCF43JedBwAJvRvQ","name":"WENLOCK","type":"platform","company":"9FDXdrXjGK8eHznR2","location":[2.282823582402673,53.59053249220431],"companyName":"ALPHA"}
+{"_id":"SLnWLK4qhyN6uJFiG","name":"EVEREST","type":"platform","company":"LDf8XwZxmAyFp7hDw","location":[1.811069871897503,57.803088513853496],"companyName":"BG"}
+{"_id":"Sbq2ZjMBPiHYTiG8L","name":"KETCH","type":"platform","company":"TNaeBe5TktLEYDCeX","location":[2.44650548356233,54.060910721580385],"companyName":"FAROE"}
+{"_id":"SmTEHF7YZhKRdmxX9","name":"DALTON","type":"platform","company":"LefP6bi9Tqm7Q8CqQ","location":[-3.725073510530547,53.89554998826878],"companyName":"BURLINGTON"}
+{"_id":"StkNhiw47NqJbWDba","name":"DUART","type":"platform","company":"KnWCz5cW936z7iWmg","location":[-0.081657540272689,58.36752454993911],"companyName":"REPSOL"}
+{"_id":"Sv2MNrBricrN3TXF2","name":"WEST DON","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[1.422243957961632,61.482888447001415],"companyName":"ENQUEST"}
+{"_id":"TXJ4tJ8CdGBwyMCkg","name":"NORTH DAVY","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.81791810842716,53.08388358762379],"companyName":"PERENCO"}
+{"_id":"Te5tFNozZyoYcczqr","name":"WEST BRAE","type":"platform","company":"zi7ongxRdnPtw9HYn","location":[1.229025018873883,58.76745015107485],"companyName":"MARATHON"}
+{"_id":"TshFbQqvC9swsmerd","name":"GANNET C","type":"platform","company":"J64BpfwEBuiFSgGht","location":[0.956683270754103,57.14777433732337],"companyName":"SHELL"}
+{"_id":"W9WNpenekAxHki3bh","name":"EIDER","type":"platform","company":"gh8PoKQY5ADMwhHLL","location":[1.155476326381005,61.35867709498773],"companyName":"TAQA"}
+{"_id":"WBNo2xtqESbHK9peK","name":"EAST SEAN","type":"platform","company":"srrT92hS99n5apbpk","location":[2.868821487473373,53.23277793753089],"companyName":"ORANJE-NASSAU"}
+{"_id":"WZQnXSfQw5gJmWqaD","name":"STRATHSPEY (cond)","type":"platform","company":"zpjfWw3k9iS5wRkAN","location":[1.705204490376073,60.92776665078218],"companyName":"CNR"}
+{"_id":"WnSZ7cZrqvuJyFdBH","name":"TRENT","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.658286088682332,54.29886301461848],"companyName":"PERENCO"}
+{"_id":"WnjxNLRZCZXBRbtz2","name":"DOUGLAS WEST","type":"platform","company":"3XsFB3wDAKPzQKB8T","location":[-3.588706964930276,53.52803722414481],"companyName":"ENI"}
+{"_id":"Wq82RYHbd7hsGDhFF","name":"BUZZARD","type":"platform","company":"P4Kd5DeS6psQ66Mh5","location":[-0.979902017872789,57.80395751434606],"companyName":"NEXEN"}
+{"_id":"WrncHDcTxxhQh5g8s","name":"INDEFATIGABLE SOUTH WEST","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.453754539136765,53.294330010855944],"companyName":"PERENCO"}
+{"_id":"WzzmBAHmatS44niEB","name":"ROB ROY","type":"platform","company":"A3zWKpgQTZthbyF8t","location":[0.127144919272438,58.19642609172596],"companyName":"HESS"}
+{"_id":"X6esfJdEkb7hsQfqv","name":"GALAHAD","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.388079095751942,53.53895709247798],"companyName":"PERENCO"}
+{"_id":"X7nzGdkwvwD85EKNd","name":"CARAVEL","type":"platform","company":"J64BpfwEBuiFSgGht","location":[2.889926465801047,53.43170056852326],"companyName":"SHELL"}
+{"_id":"XC9jmmR6nwimsmo57","name":"STAMFORD","type":"platform","company":"PprS5eKMtS74fJy3a","location":[2.84452397648499,53.80268403514079],"companyName":"CENTRICA"}
+{"_id":"XJ7QP7KARoxetdtJr","name":"SINOPE","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.285562057850606,53.278486510197766],"companyName":"CONOCOPHILLIPS"}
+{"_id":"XLXohdjd6LNcKGxhF","name":"BROOM","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[0.811969352586766,60.91909257127662],"companyName":"ENQUEST"}
+{"_id":"XM4PpFLGD2DfckW8L","name":"WOLLASTON","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[0.416011190673908,54.11402675205225],"companyName":"PERENCO"}
+{"_id":"Xd26rqRxkXQ32Em2M","name":"DELLA","type":"platform","company":"3XsFB3wDAKPzQKB8T","location":[1.887575261838459,53.07803339716769],"companyName":"ENI"}
+{"_id":"Xy6MRgL2KmGZ9JGCW","name":"MCADAM","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.337047934786643,54.3726136465595],"companyName":"CONOCOPHILLIPS"}
+{"_id":"Y69AcMHhRbJRdFayy","name":"TETHYS","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.067052761826272,53.639719500867706],"companyName":"CONOCOPHILLIPS"}
+{"_id":"Y6HzLNQWGbukh3uJL","name":"PENGUIN EAST","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.585886167738767,61.59698505236148],"companyName":"SHELL"}
+{"_id":"YFApGsZy8r2nobpSG","name":"LOCHRANZA","type":"platform","company":"dNM5RMetTQ6sgtYnm","location":[0.979605769364454,58.35607091116955],"companyName":"MAERSK"}
+{"_id":"YLtHzWPQnr9E98tFA","name":"BREAGH","type":"platform","company":"Edr4SaJb3hQ7vimdz","location":[0.416782106762704,54.584491131462784],"companyName":"INEOS"}
+{"_id":"YP7Zy8e4TiQfEfe2F","name":"MALORY","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.243017564185966,53.54259345312854],"companyName":"PERENCO"}
+{"_id":"YPhcpX747nJ4Nn75F","name":"NUGGETS N3","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.697772989787574,60.34015104094295],"companyName":"TOTAL"}
+{"_id":"YR8ABEc7yiuWzDG99","name":"CURLEW","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.223166292160199,56.716996579236216],"companyName":"SHELL"}
+{"_id":"YSvsgk8Ddsm3RRMrJ","name":"GOLDENEYE","type":"platform","company":"J64BpfwEBuiFSgGht","location":[-0.362858543253683,58.00056264724525],"companyName":"SHELL"}
+{"_id":"YZjhKFfN6Z39aCS4B","name":"CALEDONIA","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[1.124311107221803,58.1064227207218],"companyName":"PREMIER"}
+{"_id":"Yey53SKC2xG7wXSgd","name":"SOUTH VALIANT","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.094495276610333,53.316082438774224],"companyName":"CONOCOPHILLIPS"}
+{"_id":"YjWWfSo5ErxPAnysG","name":"SOUTH SEAN","type":"platform","company":"srrT92hS99n5apbpk","location":[2.854014306163774,53.1967766125251],"companyName":"ORANJE-NASSAU"}
+{"_id":"YpKWKRrzCz47Sw7if","name":"MERGANSER","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.919275401245493,57.14047021707598],"companyName":"SHELL"}
+{"_id":"YxiYuh8i4wkeAfG2Q","name":"FALCON","type":"platform","company":"gh8PoKQY5ADMwhHLL","location":[0.990254199037994,61.329791786581175],"companyName":"TAQA"}
+{"_id":"Z4qLCtz9BNhKuv9uk","name":"OSPREY","type":"platform","company":"qYQ5ftcE92cZEasNo","location":[1.522131448383242,61.31577026335337],"companyName":"FAIRFIELD"}
+{"_id":"Z8Hxphggz7tqHcR8s","name":"GALLEY","type":"platform","company":"KnWCz5cW936z7iWmg","location":[0.466286498168269,58.28714077856041],"companyName":"REPSOL"}
+{"_id":"Z98YonizsyGKkhDhv","name":"BRODGAR","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[0.463247211754165,57.92360163146842],"companyName":"CONOCOPHILLIPS"}
+{"_id":"ZAW5S9RJvqH3q3fsT","name":"BEATRICE","type":"platform","company":"KnWCz5cW936z7iWmg","location":[-3.051339249447271,58.12469513799412],"companyName":"REPSOL"}
+{"_id":"ZDd9RGggG3b9MLJwc","name":"CLIPPER SOUTH","type":"platform","company":"Edr4SaJb3hQ7vimdz","location":[1.7782899419555,53.40149238931478],"companyName":"INEOS"}
+{"_id":"ZJ7gjTMQhcrc6Nefy","name":"PIERCE (gas)","type":"platform","company":"AmpoW7PngLenaK2kZ","location":[2.259850073707105,57.145560646173585],"companyName":"ENTERPRISE"}
+{"_id":"ZLmeKd5Lqn76iMEih","name":"GARROW","type":"platform","company":"9FDXdrXjGK8eHznR2","location":[1.006519632258636,54.26712201434037],"companyName":"ALPHA"}
+{"_id":"ZLtF2aXCHwTQfZcPW","name":"ARTEMIS","type":"platform","company":"e5ctYRLw9LvnWpKxB","location":[0.540398141948187,53.91608688079353],"companyName":"AMOCO"}
+{"_id":"ZcaY8sXPqQJxbXANS","name":"BARRA","type":"platform","company":"9frFYZLpjH8GZAmd4","location":[0.738331816525226,61.19238512413975],"companyName":"DANA"}
+{"_id":"Zh7q9iSdiBXqCBvWj","name":"CRATHES","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[0.399835941962977,57.58333064963547],"companyName":"ENQUEST"}
+{"_id":"ZoQWpRG3zbviKJcPB","name":"SALTIRE","type":"platform","company":"KnWCz5cW936z7iWmg","location":[0.366512424807796,58.4246514694576],"companyName":"REPSOL"}
+{"_id":"ZzW7hCgHC6xaknMHJ","name":"MARNOCK-SKUA (cond)","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.697379169000607,57.292063810976686],"companyName":"BP"}
+{"_id":"a7sgzGxhz4up3P4pg","name":"AMETHYST WEST","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[0.551641750194851,53.649399443383736],"companyName":"PERENCO"}
+{"_id":"a95rw7qeTyqtq9PGd","name":"MARIA","type":"platform","company":"LDf8XwZxmAyFp7hDw","location":[1.668861492492396,58.04050927884227],"companyName":"BG"}
+{"_id":"aCHdyaChurt4gkkfD","name":"HYDE","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.025794210132327,53.810801433483896],"companyName":"PERENCO"}
+{"_id":"aMKTwbDS6dzCwx244","name":"BALMORAL","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[1.099358102156729,58.222926617845964],"companyName":"PREMIER"}
+{"_id":"aQCXKjKJcToaMtN4p","name":"SKIFF","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.902652834327748,53.432738879587774],"companyName":"SHELL"}
+{"_id":"afNQdybiRdXaTMwYi","name":"PETRONELLA","type":"platform","company":"KnWCz5cW936z7iWmg","location":[-0.094647412115457,58.33660926104911],"companyName":"REPSOL"}
+{"_id":"aoKf7g9jzLg8uK94g","name":"BIRCH","type":"platform","company":"PprS5eKMtS74fJy3a","location":[1.259676721810796,58.58009667936318],"companyName":"CENTRICA"}
+{"_id":"auQaXpG4gH6xmx2x2","name":"DONAN","type":"platform","company":"dNM5RMetTQ6sgtYnm","location":[0.879006091289423,58.37794541007908],"companyName":"MAERSK"}
+{"_id":"bEHdvAgp8f2i9n2uC","name":"MACCULLOCH","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[0.730819238660941,58.31261912563586],"companyName":"CONOCOPHILLIPS"}
+{"_id":"bMpxEwnYQTAg6g7kX","name":"FRIGG","type":"platform","company":"63bHi9wSJzGKgChwa","location":[2.007640866918424,59.83569192737662],"companyName":"TOTAL"}
+{"_id":"bZnWNLYsBL6injBGg","name":"THISTLE","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[1.582657663024537,61.36062780120433],"companyName":"ENQUEST"}
+{"_id":"bkyJt3rWdLpowveT8","name":"SKENE","type":"platform","company":"SYsxdqsSEa73Cq7Dh","location":[1.705097649799672,59.43247890640929],"companyName":"APACHE"}
+{"_id":"c238vQCGfrXF298hz","name":"CYRUS","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.441457857168874,58.120093267111386],"companyName":"BP"}
+{"_id":"cDkAuQfkw9ffnp6mF","name":"BAIRD","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.498812371353333,53.301694779834975],"companyName":"PERENCO"}
+{"_id":"cFG6XtvBBMTLf9fP4","name":"KYLE","type":"platform","company":"zpjfWw3k9iS5wRkAN","location":[1.234349466442553,56.8867946674703],"companyName":"CNR"}
+{"_id":"caSJaWgcx4YPNG5FK","name":"BARDOLINO","type":"platform","company":"AmpoW7PngLenaK2kZ","location":[1.415347311473164,57.62570614282658],"companyName":"ENTERPRISE"}
+{"_id":"ccHgsN3qWZWsTqN7W","name":"WENSUM","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.545707630792489,53.08360237655262],"companyName":"PERENCO"}
+{"_id":"cispKvAeGJ8BeJW2d","name":"NICOL","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[0.84043584151857,58.25409041805659],"companyName":"PREMIER"}
+{"_id":"cm8te3T69cDXx3xqd","name":"FIONN","type":"platform","company":"8oQWY2DrGDPPBhBPm","location":[1.367644219754738,61.24061031589822],"companyName":"ITHACA"}
+{"_id":"cpoZ9HsGPRhSRstYJ","name":"VALKYRIE","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.11243720047954,53.45104397386421],"companyName":"CONOCOPHILLIPS"}
+{"_id":"dYmPqXysBDtwjDpMm","name":"CHEVIOT","type":"platform","company":"9FDXdrXjGK8eHznR2","location":[0.954859461496829,60.66495971703185],"companyName":"ALPHA"}
+{"_id":"dff2MnyWSrTX5uG5J","name":"VIXEN","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.232816844991934,53.39777070012289],"companyName":"CONOCOPHILLIPS"}
+{"_id":"dfmD4RZMazx5ypzia","name":"SOLAN","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[-3.973398810538519,60.04942528903479],"companyName":"PREMIER"}
+{"_id":"djrowkGFoAB36oXvF","name":"HAWKINS","type":"platform","company":"LDf8XwZxmAyFp7hDw","location":[1.823668960774663,57.988101344909325],"companyName":"BG"}
+{"_id":"dkH43MMXu9AcjZrLE","name":"BRECHIN","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.567307206962417,57.30560865429163],"companyName":"REPSOL"}
+{"_id":"dnnYt6Q3jwMpjJFHy","name":"SOUTH CORMORANT","type":"platform","company":"gh8PoKQY5ADMwhHLL","location":[1.102678918294452,61.12826247511145],"companyName":"TAQA"}
+{"_id":"dq7KjupM8oghHC7ru","name":"AUK NORTH","type":"platform","company":"KnWCz5cW936z7iWmg","location":[2.030247071048946,56.443719127524304],"companyName":"REPSOL"}
+{"_id":"dvBDHem6ZzNfxHWHK","name":"BUCKLAND","type":"platform","company":"SYsxdqsSEa73Cq7Dh","location":[1.5730923299796,59.46617246449217],"companyName":"APACHE"}
+{"_id":"e7FJ3JyD6MBhNCbC7","name":"BANFF","type":"platform","company":"zpjfWw3k9iS5wRkAN","location":[1.316671249454632,56.98916230436564],"companyName":"CNR"}
+{"_id":"e8Rcfu7STtNJdG4rH","name":"GUILLEMOT WEST","type":"platform","company":"9frFYZLpjH8GZAmd4","location":[0.798893567601894,57.1866157000647],"companyName":"DANA"}
+{"_id":"eDxB5j8j5gxtPF2BL","name":"FORTIES","type":"platform","company":"SYsxdqsSEa73Cq7Dh","location":[0.973155167636121,57.730009244623275],"companyName":"APACHE"}
+{"_id":"eE6w9SxcAFbFjso9K","name":"BALLOCH","type":"platform","company":"dNM5RMetTQ6sgtYnm","location":[0.844218058666244,58.38039605040608],"companyName":"MAERSK"}
+{"_id":"eEvi7TzRyCCabajCA","name":"ERIS","type":"platform","company":"PprS5eKMtS74fJy3a","location":[0.568359178393592,53.820012127549504],"companyName":"CENTRICA"}
+{"_id":"eHkoFZiES24sZyv9F","name":"SYCAMORE","type":"platform","company":"PprS5eKMtS74fJy3a","location":[1.26424737618964,58.504892990239995],"companyName":"CENTRICA"}
+{"_id":"egWerbvbRF2F2W44x","name":"CORVETTE","type":"platform","company":"J64BpfwEBuiFSgGht","location":[2.621221610876163,53.23122597285616],"companyName":"SHELL"}
+{"_id":"eh3KNcJmQZ4XQ6A4q","name":"LENNOX (gas)","type":"platform","company":"oa6HWPio3xqq4WD8H","location":[-3.163354675012845,53.63156599373523],"companyName":"BHP"}
+{"_id":"eixJikd4KyK6bvo67","name":"BELL","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.385704643908142,53.24196253140647],"companyName":"PERENCO"}
+{"_id":"ekcpqtbKk9zEZ78cb","name":"EUROPA","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.288699582253909,53.23455714498637],"companyName":"CONOCOPHILLIPS"}
+{"_id":"eqhuYiAPrZ9T8YNAe","name":"BLAIR","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[1.069462667446751,58.17178538198261],"companyName":"PREMIER"}
+{"_id":"exwdJ4nXu8Qym5XzT","name":"MIRREN","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.870858091008009,57.30603048625863],"companyName":"BP"}
+{"_id":"f4JdnZbxMnw3v3QhY","name":"CURLEW C","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.369166617428875,56.726295740951876],"companyName":"SHELL"}
+{"_id":"fGJZYR7dtBcJHmF9S","name":"AMETHYST EAST","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[0.720258012933911,53.610625267327464],"companyName":"PERENCO"}
+{"_id":"fTbfYyot4MjzogsJf","name":"WINGATE","type":"platform","company":"fDMHeJmLpFbrDwmhh","location":[2.618101804917289,54.31584714557848],"companyName":"WINTERSHALL"}
+{"_id":"fbYC4yuuZnrRTh3vh","name":"NORTH MORECAMBE","type":"platform","company":"4FaAtLacXJgeo4LBa","location":[-3.656685340423679,53.95649681129529],"companyName":"HYDROCARBON"}
+{"_id":"fmPoWCgitdfi3baFD","name":"BRIGANTINE B","type":"platform","company":"J64BpfwEBuiFSgGht","location":[2.617109204561636,53.42261205673098],"companyName":"SHELL"}
+{"_id":"fsJj6HodThxS79gMr","name":"AUDREY","type":"platform","company":"PprS5eKMtS74fJy3a","location":[2.020068610398034,53.55194411134081],"companyName":"CENTRICA"}
+{"_id":"fzjpAdRxogB29QSF9","name":"GALLEON","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.951264996386607,53.43243945174095],"companyName":"SHELL"}
+{"_id":"gBR9ZBhFfXGmCC6Ku","name":"CORMORANT EAST","type":"platform","company":"gh8PoKQY5ADMwhHLL","location":[1.147824886101155,61.24000539315899],"companyName":"TAQA"}
+{"_id":"gGzYF4TcfqS4XiH5b","name":"BABBAGE","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[1.266731392473279,53.93983654275941],"companyName":"PREMIER"}
+{"_id":"gHaJiyTDhhMn9d7kR","name":"HEWETT","type":"platform","company":"3XsFB3wDAKPzQKB8T","location":[1.659132208437225,53.068924380549994],"companyName":"ENI"}
+{"_id":"gKPKf9gF7kYs6s5e5","name":"MORRONE","type":"platform","company":"gh8PoKQY5ADMwhHLL","location":[1.516238057552761,59.23771622108585],"companyName":"TAQA"}
+{"_id":"gSYEDM7rsXeJ6fEp2","name":"ROCHELLE","type":"platform","company":"P4Kd5DeS6psQ66Mh5","location":[0.234920415704775,58.00863672974652],"companyName":"NEXEN"}
+{"_id":"gbPtWvoxusFJkExi7","name":"VISCOUNT","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.148471226527704,53.38612532259225],"companyName":"CONOCOPHILLIPS"}
+{"_id":"gjcdv9CcQ6DQiEgLm","name":"BITTERN (oil)","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.029164316362845,56.90870584339295],"companyName":"SHELL"}
+{"_id":"hFBk439CBfmrScHcq","name":"ROUGH","type":"platform","company":"PprS5eKMtS74fJy3a","location":[0.452466214634558,53.82754494392616],"companyName":"CENTRICA"}
+{"_id":"hWbh5qHSBJyywjhHz","name":"BRUCE","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.556161854191529,59.725014941162264],"companyName":"BP"}
+{"_id":"hX8mcHqqECsDYMqJk","name":"COOK","type":"platform","company":"8oQWY2DrGDPPBhBPm","location":[0.813413929492469,57.37077540196965],"companyName":"ITHACA"}
+{"_id":"hZWsooQjykSPmMLLj","name":"ANN","type":"platform","company":"PprS5eKMtS74fJy3a","location":[2.082731936395542,53.70450578030458],"companyName":"CENTRICA"}
+{"_id":"hcpSQRWtkkPiHoWhg","name":"ROSS","type":"platform","company":"KnWCz5cW936z7iWmg","location":[-1.375179609645581,58.0960497018037],"companyName":"REPSOL"}
+{"_id":"hg2MYgjFxJmQsbmZF","name":"BRIGANTINE A","type":"platform","company":"J64BpfwEBuiFSgGht","location":[2.641699676594903,53.39597449182429],"companyName":"SHELL"}
+{"_id":"hhFna4txwNGHQv9mi","name":"STIRLING","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[1.132310512868421,58.23289340180285],"companyName":"PREMIER"}
+{"_id":"hjPav6awqnAp3x4Sh","name":"NORTH SEAN","type":"platform","company":"srrT92hS99n5apbpk","location":[2.831602041018602,53.21910706294039],"companyName":"ORANJE-NASSAU"}
+{"_id":"hnHz24k8ckecTXMDw","name":"WISSEY","type":"platform","company":"xhNpTMys3WBd93s3M","location":[2.750274459529853,52.898792917851225],"companyName":"TULLOW"}
+{"_id":"huvG6CFia9MXLbH4j","name":"ARTHUR","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.216983576463833,52.90725990589389],"companyName":"PERENCO"}
+{"_id":"hvCeJqiZNJoDXkjNz","name":"BLAKE","type":"platform","company":"KnWCz5cW936z7iWmg","location":[-1.353762266951491,58.20508489462108],"companyName":"REPSOL"}
+{"_id":"i5QpXZeFWCqPohZ9q","name":"INNES","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[2.662202327569218,56.2676897842934],"companyName":"ENQUEST"}
+{"_id":"i85kAj7bcBjkR9LzS","name":"NUGGETS N2","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.606257013429178,60.347320124875154],"companyName":"TOTAL"}
+{"_id":"i9mt7dWupg7o27NpJ","name":"BIG DOTTY","type":"platform","company":"3XsFB3wDAKPzQKB8T","location":[1.770799833643371,53.09892666583222],"companyName":"ENI"}
+{"_id":"iDhdvvirnBozxNwoe","name":"ENOCH","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.503585710858286,58.63432879225204],"companyName":"REPSOL"}
+{"_id":"iFHWQHQigmTQsnqvS","name":"CALLISTO","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.386468680059913,53.24141652302579],"companyName":"CONOCOPHILLIPS"}
+{"_id":"iFL9mAJqkGfsWkZtb","name":"BRIGANTINE D","type":"platform","company":"J64BpfwEBuiFSgGht","location":[2.696785475097935,53.4420046220326],"companyName":"SHELL"}
+{"_id":"iFbqiN4LJ5YC7dfcn","name":"HOWE","type":"platform","company":"AmpoW7PngLenaK2kZ","location":[1.353350159115266,57.63781678941041],"companyName":"ENTERPRISE"}
+{"_id":"iKF4GiesbYQ6TtPwN","name":"DEBEN","type":"platform","company":"xhNpTMys3WBd93s3M","location":[2.463955088692924,53.10201899755685],"companyName":"TULLOW"}
+{"_id":"isRB2HDWZJ6YCL2fn","name":"VIKING C","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.153433777517148,53.43306388609851],"companyName":"CONOCOPHILLIPS"}
+{"_id":"j8T4EvdYjabdu4T2d","name":"GROVE","type":"platform","company":"PprS5eKMtS74fJy3a","location":[2.865433422343623,53.71547944964428],"companyName":"CENTRICA"}
+{"_id":"jJkH3Tgk7bW7SLsoz","name":"DAVY","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.90643598995569,52.99811489700108],"companyName":"PERENCO"}
+{"_id":"jexRbzNsHK8g3by9o","name":"PICT","type":"platform","company":"9frFYZLpjH8GZAmd4","location":[0.488826408137224,57.28469920074584],"companyName":"DANA"}
+{"_id":"jjBPzqmpWREReXLsc","name":"AFFLECK","type":"platform","company":"dNM5RMetTQ6sgtYnm","location":[2.727291655378687,56.42777115640135],"companyName":"MAERSK"}
+{"_id":"jokiZkgxQFMQWJKHS","name":"BURE","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.424314463022383,53.12299119636295],"companyName":"PERENCO"}
+{"_id":"jtE3N5YNrx5N7XY2W","name":"ORION","type":"platform","company":"KnWCz5cW936z7iWmg","location":[2.545891001356483,56.42685490020651],"companyName":"REPSOL"}
+{"_id":"jxbmvYxhSfHzPWxxg","name":"GLAMIS","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[1.017417000474771,58.178236947551426],"companyName":"PREMIER"}
+{"_id":"k3aKSLBMzzMu4Jvrb","name":"WOOD","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.451841306384545,57.372867587049114],"companyName":"REPSOL"}
+{"_id":"kALcw8mj96FDiEn3f","name":"HERON","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.808344228404713,57.147313070345845],"companyName":"SHELL"}
+{"_id":"kCGZ5xfQMbkyTyjJB","name":"HARRIS","type":"platform","company":"9frFYZLpjH8GZAmd4","location":[0.709231999156517,61.209609402676534],"companyName":"DANA"}
+{"_id":"kNBTmbta2hP74JJNn","name":"VARADERO","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[0.696777773408455,56.79349759256072],"companyName":"PREMIER"}
+{"_id":"kk3AeKWdKsZgWngJH","name":"GUILLEMOT NORTH WEST","type":"platform","company":"9frFYZLpjH8GZAmd4","location":[0.705202511640552,57.202051049780806],"companyName":"DANA"}
+{"_id":"kwvMHt9EgKDrLRG7g","name":"LENNOX (oil)","type":"platform","company":"3XsFB3wDAKPzQKB8T","location":[-3.163354675012845,53.63156599373523],"companyName":"ENI"}
+{"_id":"m2GrH3vS6DxeY4ujo","name":"GRYPHON","type":"platform","company":"dNM5RMetTQ6sgtYnm","location":[1.538374893369937,59.35491786675983],"companyName":"MAERSK"}
+{"_id":"m2Qpj5dasqam338Eo","name":"CLYDE","type":"platform","company":"KnWCz5cW936z7iWmg","location":[2.292174104342466,56.46073395878778],"companyName":"REPSOL"}
+{"_id":"mENWA26Pk8cyE8Sc9","name":"ENSIGN","type":"platform","company":"PprS5eKMtS74fJy3a","location":[1.766811085596679,53.59644250476256],"companyName":"CENTRICA"}
+{"_id":"mKrckPafCLmY9csHi","name":"DON SOUTH WEST","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[1.557013180898526,61.46077636056981],"companyName":"ENQUEST"}
+{"_id":"mWRu4CoR6GRB6yjrn","name":"BESSEMER","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.466118796135164,53.20427228030567],"companyName":"PERENCO"}
+{"_id":"msxpyknA6Mc4fH9Ak","name":"JOANNE","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.254901487006853,56.69871982201103],"companyName":"CONOCOPHILLIPS"}
+{"_id":"mxqtNMHzWh4saREze","name":"OTTER","type":"platform","company":"gh8PoKQY5ADMwhHLL","location":[0.96021436310166,61.519381752255576],"companyName":"TAQA"}
+{"_id":"n7brYJXueekRDXt9W","name":"VULCAN","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.035468234025458,53.24510147009579],"companyName":"CONOCOPHILLIPS"}
+{"_id":"nSRFPrgorbp2A4a7A","name":"DUNLIN","type":"platform","company":"qYQ5ftcE92cZEasNo","location":[1.590107821906891,61.273658521487754],"companyName":"FAIRFIELD"}
+{"_id":"nkvJ474dZ8ouDDPkp","name":"PELICAN","type":"platform","company":"gh8PoKQY5ADMwhHLL","location":[1.12370788865237,61.03290607270131],"companyName":"TAQA"}
+{"_id":"now5TKyLHLfXGiXn5","name":"TIFFANY","type":"platform","company":"zpjfWw3k9iS5wRkAN","location":[1.27025643952004,58.48560436333061],"companyName":"CNR"}
+{"_id":"nxcZ5hAzpthbHJdEe","name":"CRAWFORD","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[1.505162362126161,59.12296482050191],"companyName":"ENQUEST"}
+{"_id":"ny6dgLKbAXd6W4Tq3","name":"LEADON","type":"platform","company":"dNM5RMetTQ6sgtYnm","location":[1.661474876483203,59.524278775866904],"companyName":"MAERSK"}
+{"_id":"o7vcnHpLK4gvaZgGz","name":"ELLON","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.816706521358267,60.600329521513196],"companyName":"TOTAL"}
+{"_id":"o8xa2Zn6oeYRHSKki","name":"ESMOND","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[1.425240092383072,54.58790468981906],"companyName":"PREMIER"}
+{"_id":"oJFhcRFPm6ZuzKxhZ","name":"DURWARD","type":"platform","company":"PprS5eKMtS74fJy3a","location":[0.143887496306798,57.46947330257627],"companyName":"CENTRICA"}
+{"_id":"oWLPyA2NnYyPRucvf","name":"SCOTER (gas)","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.971932226783406,57.12970349413264],"companyName":"SHELL"}
+{"_id":"oYaqtYwZHWeDokT6Z","name":"TYNE NORTH","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.528162766124792,54.48153354220869],"companyName":"PERENCO"}
+{"_id":"odoLAbDJkqiLKpy7R","name":"CHANTER","type":"platform","company":"KnWCz5cW936z7iWmg","location":[0.36931512415975,58.39020925560163],"companyName":"REPSOL"}
+{"_id":"ojWdSYWr7p8JmT7CX","name":"GANNET E","type":"platform","company":"J64BpfwEBuiFSgGht","location":[0.845179747839389,57.1634684727219],"companyName":"SHELL"}
+{"_id":"p6ri4aJYdCqsX223f","name":"TONI","type":"platform","company":"zpjfWw3k9iS5wRkAN","location":[1.301173177634319,58.401678699969324],"companyName":"CNR"}
+{"_id":"p9ytTxudtAKwcoCYQ","name":"GRANT","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.763564185029939,60.59683969726649],"companyName":"TOTAL"}
+{"_id":"pEo2RujchN4mGmztF","name":"LEVEN","type":"platform","company":"KnWCz5cW936z7iWmg","location":[2.236367210942286,56.472116666860614],"companyName":"REPSOL"}
+{"_id":"pM7CBe496WrDgC4gB","name":"SCAPA","type":"platform","company":"KnWCz5cW936z7iWmg","location":[-0.328233382394168,58.41934419157913],"companyName":"REPSOL"}
+{"_id":"pRuFZBR9KKJTfaK6H","name":"MIMAS","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[1.706082025810281,53.76086407450832],"companyName":"CONOCOPHILLIPS"}
+{"_id":"pXuQZ9LFbpozALxZA","name":"FARRAGON","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.529409074265274,58.1445892745367],"companyName":"BP"}
+{"_id":"pgKQe7tQ3pbhKGpuE","name":"SHAW","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.362843286053142,57.29688276293115],"companyName":"REPSOL"}
+{"_id":"pvfk7k9W3vuW78sW3","name":"JANICE","type":"platform","company":"dNM5RMetTQ6sgtYnm","location":[2.256387013718485,56.39032006411955],"companyName":"MAERSK"}
+{"_id":"qEiKgjycoXqm4ubeH","name":"BEINN","type":"platform","company":"zi7ongxRdnPtw9HYn","location":[1.379284998988754,58.81072567432971],"companyName":"MARATHON"}
+{"_id":"qNdqr3toGJiYwCfTS","name":"ALMA","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[2.765769778449151,56.171540711381795],"companyName":"ENQUEST"}
+{"_id":"qTPrtXLFW9CHzsPRw","name":"JASMINE","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.188618368797037,56.70860434774219],"companyName":"CONOCOPHILLIPS"}
+{"_id":"qqDeXMxYeimkNDEAM","name":"DRAKE","type":"platform","company":"LDf8XwZxmAyFp7hDw","location":[1.851033767631077,57.919230203541154],"companyName":"BG"}
+{"_id":"r7575RkeDfeswLLNi","name":"BRENDA","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[0.981137128788033,58.198146202273584],"companyName":"PREMIER"}
+{"_id":"r9NMsnuxvdF6AkeHM","name":"SEVEN SEAS","type":"platform","company":"PprS5eKMtS74fJy3a","location":[1.351713048957295,53.748581391873834],"companyName":"CENTRICA"}
+{"_id":"rHHzkpjJStKGXv4ag","name":"IONA","type":"platform","company":"KnWCz5cW936z7iWmg","location":[0.255886681409121,58.40036614796746],"companyName":"REPSOL"}
+{"_id":"rK7CiNB3FyCCm562x","name":"DUNBAR","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.670454794043448,60.55452086661147],"companyName":"TOTAL"}
+{"_id":"rKCkBEYZfMs2oDf5A","name":"FRANKLIN","type":"platform","company":"63bHi9wSJzGKgChwa","location":[1.893243606088026,56.95319627403389],"companyName":"TOTAL"}
+{"_id":"rNiL5bcs82AvBEe8C","name":"JULIET","type":"platform","company":"W7HbwhEtzMux4cRsu","location":[0.744609681496636,53.54972061649104],"companyName":"ENGIE"}
+{"_id":"rRA7tEpKgPsB7js7t","name":"CLAPHAM","type":"platform","company":"9frFYZLpjH8GZAmd4","location":[0.613501507514977,57.24049323545483],"companyName":"DANA"}
+{"_id":"rT492kDpbKjAkqqwS","name":"EGRET","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.74998068802427,57.171452193324264],"companyName":"SHELL"}
+{"_id":"rx9se2j9Kpc27Yi7i","name":"PIERCE (oil)","type":"platform","company":"AmpoW7PngLenaK2kZ","location":[2.259850073707105,57.145560646173585],"companyName":"ENTERPRISE"}
+{"_id":"s7aDSLJQcyxhGSHJ6","name":"ATLANTIC","type":"platform","company":"LDf8XwZxmAyFp7hDw","location":[-0.912709367957315,58.019404090600304],"companyName":"BG"}
+{"_id":"sWNcFE4fHQ7D5AdxY","name":"RHYL","type":"platform","company":"4FaAtLacXJgeo4LBa","location":[-3.674874867357431,54.06593404210027],"companyName":"HYDROCARBON"}
+{"_id":"sX93QcEjLwtWmtxu2","name":"NEVIS","type":"platform","company":"SYsxdqsSEa73Cq7Dh","location":[1.415724496908192,59.51608929688566],"companyName":"APACHE"}
+{"_id":"sZQ2aKPnSJT6YDtuA","name":"KELVIN","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.482265074016325,54.32741390012387],"companyName":"CONOCOPHILLIPS"}
+{"_id":"tW3AAfQE2ySFmydrz","name":"BRAEMAR","type":"platform","company":"zi7ongxRdnPtw9HYn","location":[1.480959546247743,58.98172628380513],"companyName":"MARATHON"}
+{"_id":"tYBMitdHqsuoM6QFb","name":"NESS","type":"platform","company":"SYsxdqsSEa73Cq7Dh","location":[1.423945542863989,59.55956102866348],"companyName":"APACHE"}
+{"_id":"tbNNdCauLnnKX9bbT","name":"CATCHER","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[0.762216922345119,56.781642009624825],"companyName":"PREMIER"}
+{"_id":"tmxpHvHMqckaiNNf6","name":"LANCELOT","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.373889167442734,53.40918176919605],"companyName":"PERENCO"}
+{"_id":"ttywcyP4SiZTCErqz","name":"JAMES","type":"platform","company":"dNM5RMetTQ6sgtYnm","location":[2.286730534020559,56.346798924190495],"companyName":"MAERSK"}
+{"_id":"u2CfngKTDDbxE7BXW","name":"MUNGO","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[2.010839787615262,57.37521270346369],"companyName":"BP"}
+{"_id":"u5jYwatxtztYjwrAc","name":"KATY","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.650479491404068,54.404451458105264],"companyName":"CONOCOPHILLIPS"}
+{"_id":"u6JDjXuEWpjcXd25Z","name":"JUDY","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.350477130015493,56.694584859073146],"companyName":"CONOCOPHILLIPS"}
+{"_id":"u8ANDxfuHRseNeRDj","name":"ANGUS","type":"platform","company":"A3zWKpgQTZthbyF8t","location":[3.057443743405168,56.16034987199346],"companyName":"HESS"}
+{"_id":"uF3hwcwDwMnZN8CzZ","name":"GLENLIVET","type":"platform","company":"63bHi9wSJzGKgChwa","location":[-2.115357750962327,61.07611789887461],"companyName":"TOTAL"}
+{"_id":"uJrJeJa2NaKMHk9no","name":"CAISTER CARBONIFEROUS","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.44185942112869,54.23218728153022],"companyName":"CONOCOPHILLIPS"}
+{"_id":"ucSbA97wNApvy38gR","name":"ORCA","type":"platform","company":"tFqewAbsw5aC6LWB2","location":[2.789232455934193,54.15888402192941],"companyName":"GDF"}
+{"_id":"uo8Z5nBTdEHEXq2XL","name":"FERGUS","type":"platform","company":"sYjtztrkASvN3XSGX","location":[3.263123490555423,55.96820670472962],"companyName":"BRITOIL"}
+{"_id":"ustnFyTFi4wDgraRq","name":"WEST SOLE","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[1.137764378914374,53.708883514218236],"companyName":"PERENCO"}
+{"_id":"vDSm3QJiGSfn8ZY9Y","name":"GOOSANDER","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[0.315836238742568,57.50611782185217],"companyName":"ENQUEST"}
+{"_id":"vJvhDisNQd5fBjRLR","name":"TELFORD","type":"platform","company":"P4Kd5DeS6psQ66Mh5","location":[0.251068087187393,58.218790511848894],"companyName":"NEXEN"}
+{"_id":"vQMyvDRcZh3QwHqp5","name":"WELLAND NORTH WEST","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.681951675189309,52.99703623004364],"companyName":"PERENCO"}
+{"_id":"vZ7rNxh5NZicTZ23n","name":"HELVELLYN","type":"platform","company":"9FDXdrXjGK8eHznR2","location":[0.803283800253241,53.73021311970932],"companyName":"ALPHA"}
+{"_id":"vdDvA6yMmRejhnjoa","name":"MILLOM","type":"platform","company":"LefP6bi9Tqm7Q8CqQ","location":[-3.86166460223711,54.0325805300586],"companyName":"BURLINGTON"}
+{"_id":"veNyT6GyttmsbfiFC","name":"GANNET B","type":"platform","company":"J64BpfwEBuiFSgGht","location":[0.956683270754103,57.14777433732337],"companyName":"SHELL"}
+{"_id":"vzSvAcJ6oKN2DYBPB","name":"CLEETON","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[0.718576686269945,54.04680030300607],"companyName":"PERENCO"}
+{"_id":"w2fysEsZYhrPpqX9g","name":"NETHAN","type":"platform","company":"KnWCz5cW936z7iWmg","location":[2.286574310133943,56.45204158660485],"companyName":"REPSOL"}
+{"_id":"w6Kteq5JDoHQKbZ3p","name":"MOIRA","type":"platform","company":"LDf8XwZxmAyFp7hDw","location":[1.668634487685892,58.04048227498593],"companyName":"BG"}
+{"_id":"w7ZLZHDLWGb7HfyAJ","name":"MADOES","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[1.481533821425714,57.16950874828046],"companyName":"BP"}
+{"_id":"w9o9QjtGXrMumZ5Pv","name":"STRATHSPEY (oil)","type":"platform","company":"zpjfWw3k9iS5wRkAN","location":[1.705204490376073,60.92776665078218],"companyName":"CNR"}
+{"_id":"waBh7g7Ck9HGvvRrW","name":"BARQUE","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.553805773238967,53.60435719349086],"companyName":"SHELL"}
+{"_id":"wbHsPpsNaLSpjbJuY","name":"NORTH VALIANT","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.025320326238575,53.3554598725248],"companyName":"CONOCOPHILLIPS"}
+{"_id":"wnHADNoWf24wYCmS8","name":"CALLANISH","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[0.723880350931965,58.002974846443266],"companyName":"CONOCOPHILLIPS"}
+{"_id":"wtm5KLfStRpyNQG8J","name":"EAST BRAE","type":"platform","company":"zi7ongxRdnPtw9HYn","location":[1.523178538812135,58.88083810338669],"companyName":"MARATHON"}
+{"_id":"wxmNZJNxRnDPviJyu","name":"CLAYMORE","type":"platform","company":"KnWCz5cW936z7iWmg","location":[-0.273336827066489,58.437408567498835],"companyName":"REPSOL"}
+{"_id":"xCfJqzjdKW35gZnWt","name":"TOPAZ","type":"platform","company":"Edr4SaJb3hQ7vimdz","location":[2.192475860822046,53.95882034707153],"companyName":"INEOS"}
+{"_id":"xRmfnf59yoR4M7CPf","name":"ORWELL","type":"platform","company":"xhNpTMys3WBd93s3M","location":[3.039964624787505,53.139553964639056],"companyName":"TULLOW"}
+{"_id":"xqW8CZGRr4T3R8fth","name":"BUCHAN","type":"platform","company":"KnWCz5cW936z7iWmg","location":[-0.000541623514119,57.8995947583872],"companyName":"REPSOL"}
+{"_id":"xt32NdT6EBNHoKdJp","name":"CLAIR","type":"platform","company":"XtmvRmrnnTJXRJQfS","location":[-2.555284555970269,60.683912892744274],"companyName":"BP"}
+{"_id":"xuDzkFAEPJ35smuLD","name":"FULMAR","type":"platform","company":"KnWCz5cW936z7iWmg","location":[2.151178353239665,56.48869919220744],"companyName":"REPSOL"}
+{"_id":"y3dpQoXCDqz6RbcCc","name":"PENGUIN WEST","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.488306047595953,61.63559027462408],"companyName":"SHELL"}
+{"_id":"yAecHLW6CxhWcCY2y","name":"STARLING","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.436593723927697,56.93227281322874],"companyName":"SHELL"}
+{"_id":"yAkPsZYsrjJMMLbbj","name":"GROUSE","type":"platform","company":"dnDPdPTXsEyZGHuBD","location":[0.619954227915755,57.47864875595475],"companyName":"ENQUEST"}
+{"_id":"yCs7DR6CZJAd45jpG","name":"PIPER","type":"platform","company":"KnWCz5cW936z7iWmg","location":[0.26913328136336,58.45835142575225],"companyName":"REPSOL"}
+{"_id":"yG5p7ef9b3cNWntuf","name":"RITA","type":"platform","company":"z6wTfGWb26LFa7hzM","location":[2.203840196306277,54.27304176532268],"companyName":"PREMIER"}
+{"_id":"yGnskcDxPeo377bp5","name":"JACKY","type":"platform","company":"8oQWY2DrGDPPBhBPm","location":[-2.979920410095998,58.183938221090386],"companyName":"ITHACA"}
+{"_id":"yLPsRft6qeZH82v3G","name":"TWEEDSMUIR","type":"platform","company":"KnWCz5cW936z7iWmg","location":[0.160480681544938,57.9829118392149],"companyName":"REPSOL"}
+{"_id":"ygNKvQarPvJ98Wq2M","name":"KESTREL","type":"platform","company":"gh8PoKQY5ADMwhHLL","location":[1.040049827843047,61.30905664259061],"companyName":"TAQA"}
+{"_id":"yjcrxi2JNpp6DMf4P","name":"TRISTAN","type":"platform","company":"xALMNsHqidJoQ9xoN","location":[2.734853379624359,53.01421339682628],"companyName":"PERENCO"}
+{"_id":"yrmqFjWSJ3k9siMcC","name":"BURGHLEY","type":"platform","company":"KnWCz5cW936z7iWmg","location":[1.242033433624695,58.25419258034712],"companyName":"REPSOL"}
+{"_id":"yvcEex6AFMCoBmQo6","name":"CLIPPER NORTH","type":"platform","company":"J64BpfwEBuiFSgGht","location":[1.732397639341408,53.46740994873544],"companyName":"SHELL"}
+{"_id":"yw4tiBC7RinyYSBzd","name":"ALBA","type":"platform","company":"dBhRSNCjW6bwgWKT8","location":[1.076734582624023,58.06862274560743],"companyName":"CHEVRON"}
+{"_id":"z2mrMknWfqvuaE5vu","name":"MINKE","type":"platform","company":"W7HbwhEtzMux4cRsu","location":[2.741739586724666,54.26570396990829],"companyName":"ENGIE"}
+{"_id":"zGJrNajG8Qt9hBygX","name":"SEYMOUR","type":"platform","company":"LDf8XwZxmAyFp7hDw","location":[1.88653232689179,57.97258857880342],"companyName":"BG"}
+{"_id":"zN9zEQCkKxje9KHbZ","name":"STELLA","type":"platform","company":"8oQWY2DrGDPPBhBPm","location":[2.074531311124121,56.808471438396],"companyName":"ITHACA"}
+{"_id":"zakdKjQm2tvvaPe9Q","name":"HAMILTON","type":"platform","company":"oa6HWPio3xqq4WD8H","location":[-3.457555744740604,53.57084826982179],"companyName":"BHP"}
+{"_id":"zcC8Dz5G2rD2s8k2e","name":"HAMILTON EAST","type":"platform","company":"3XsFB3wDAKPzQKB8T","location":[-3.408425728072378,53.598945788881146],"companyName":"ENI"}
+{"_id":"zhT6njmyJD6M2pLHL","name":"MUNRO","type":"platform","company":"hjqAjuTx6pb92Np8x","location":[2.298690831495193,54.433878207077676],"companyName":"CONOCOPHILLIPS"}
+{"_id":"ztDYp2vCh4RhdFbku","name":"LYELL","type":"platform","company":"zpjfWw3k9iS5wRkAN","location":[1.245284397215623,60.92500151756886],"companyName":"CNR"}
